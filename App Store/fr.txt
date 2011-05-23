@@ -1,3 +1,5 @@
+★★★VOTED TEXT EDITOR OF THE YEAR BY MACWORLD AND ONE OF GIZMODO'S BEST IPAD APPS★★★
+
 Elements est un superbe et souple éditeur de texte pour iOS. Elements vous permet de consulter, éditer et partager des textes simples sur votre iPad, iPhone et iPod touch. Toutes vos données sont stockées dans votre compte Dropbox personnel et sont ainsi disponibles depuis tous vos appareils.  
 
 Que vous soyez un journaliste free lance qui veut écrire son prochain article, une étudiante qui doit faire un dossier de lecture ou un professionnel mobile qui a besoin d'avoir accès à ses notes de n'importe où, Elements peut vous aider à travailler.
@@ -49,9 +51,29 @@ Merci!
 
 Merci pour votre support d'Elements! Nous avons travaillé dur dans le garage de Second Gear pour faire une nouvelle version qui ajoute plein de nouvelles fonctions aux nouvelle fonctions que vous avez demandées.
 
-* [NOUVEAU] Placeholder
-* [CHANGEMENT] Placeholder
-* [CORRECTION] Placeholder
+* [NEW] Added support for rendering Markdown Extra style footnotes.
+* [NEW] Added support for dictionary lookups in Terminology for iPhone or iPad.
+* [NEW] Added larger font sizes for those that like big letters.
+* [NEW] Added Debug Logging setting so you can better debug what sync issues are happening.
+* [NEW] Added 'Other Apps' listing
+* [NEW] Added in-app crash reporting.
+* [CHANGE] Added Edit button to file listing controller.
+* [CHANGE] Updated to latest version of MarkdownKit.
+* [CHANGE] Elements now requires iOS 4.0.
+* [CHANGE] Removed in-app release notes.
+* [CHANGE] Renamed the Font Size settings view to Text Size.
+* [FIX] Resolved bug where adjusting the extension visibility setting didn't immediately reflect in the visible file on the iPhone.
+* [FIX] Print popover should now properly be dismissed when tapping on another popover item on the iPad.
+* [FIX] View controllers now properly set the backBarButtonItem instead of leftBarButtonItem so that the button does not revert to a non-image when a modal view is dismissed.
+* [FIX] Fixed the appearance of startup images.
+* [FIX] Web view now resizes contents when rotating with the Markdown preview visible.
+* [FIX] Now checking if a local copy of a folder exists when trying to determine a unique new folder name. If it does, we just go ahead and increment to the next available number. 
+* [FIX] Appended some more error reporting for file and folder renaming errors.
+* [FIX] Added legal section with copyrights and stuff for components I use.
+* [FIX] All logged errors and warnings are now grammatically correct.
+* [FIX] When determining a unique file name for new files, we check to ensure there's not a file already created in the file system with that name.
+* [FIX] Resolved issue where status bar style was wrong style on app launch.
+* [FIX] Resolved issue where any public.data UTI would be offered as importable into Elements.
 
 Si vous appréciez Elements, n'oubliez pas de rajouter 5 étoiles à la note de l'appli sur l'App Store. Les applis les mieux notéees par nos utilisateurs nous permettent de faire des mises à jour et permettent aux autres utilisateurs de découvrir l'appli.
 
