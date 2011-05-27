@@ -1,4 +1,4 @@
-★★★VOTED TEXT EDITOR OF THE YEAR BY MACWORLD AND ONE OF GIZMODO'S BEST IPAD APPS★★★
+﻿★★★ELU EDITEUR DE TEXTE DE L'ANNEE PAR MACWORLD ET UNE DES MEILLEURES APPLIS IPAD PAR GIZMODO★★★
 
 Elements est un superbe et souple éditeur de texte pour iOS. Elements vous permet de consulter, éditer et partager des textes simples sur votre iPad, iPhone et iPod touch. Toutes vos données sont stockées dans votre compte Dropbox personnel et sont ainsi disponibles depuis tous vos appareils.  
 
@@ -49,34 +49,34 @@ Merci!
 
 ===============
 
-Merci pour votre support d'Elements! Nous avons travaillé dur dans le garage de Second Gear pour faire une nouvelle version qui ajoute plein de nouvelles fonctions aux nouvelle fonctions que vous avez demandées.
+Merci pour votre support d'Elements! Nous avons travaillé dur dans le garage de Second Gear pour faire une nouvelle version qui intègre plein de nouvelles fonctions aux nouvelles fonctions que vous avez demandées.
 
-* [NEW] Added support for rendering Markdown Extra style footnotes.
-* [NEW] Added support for dictionary lookups in Terminology for iPhone or iPad.
-* [NEW] Added larger font sizes for those that like big letters.
-* [NEW] Added Debug Logging setting so you can better debug what sync issues are happening.
-* [NEW] Added 'Other Apps' listing
-* [NEW] Added in-app crash reporting.
-* [CHANGE] Added Edit button to file listing controller.
-* [CHANGE] Updated to latest version of MarkdownKit.
-* [CHANGE] Elements now requires iOS 4.0.
-* [CHANGE] Removed in-app release notes.
-* [CHANGE] Renamed the Font Size settings view to Text Size.
-* [FIX] Resolved bug where adjusting the extension visibility setting didn't immediately reflect in the visible file on the iPhone.
-* [FIX] Print popover should now properly be dismissed when tapping on another popover item on the iPad.
-* [FIX] View controllers now properly set the backBarButtonItem instead of leftBarButtonItem so that the button does not revert to a non-image when a modal view is dismissed.
-* [FIX] Fixed the appearance of startup images.
-* [FIX] Web view now resizes contents when rotating with the Markdown preview visible.
-* [FIX] Now checking if a local copy of a folder exists when trying to determine a unique new folder name. If it does, we just go ahead and increment to the next available number. 
-* [FIX] Appended some more error reporting for file and folder renaming errors.
-* [FIX] Added legal section with copyrights and stuff for components I use.
-* [FIX] All logged errors and warnings are now grammatically correct.
-* [FIX] When determining a unique file name for new files, we check to ensure there's not a file already created in the file system with that name.
-* [FIX] Resolved issue where status bar style was wrong style on app launch.
-* [FIX] Resolved issue where any public.data UTI would be offered as importable into Elements.
+* [NOUVEAU] Ajout du support du rendu de style footnotes pour Markdown Extra.
+* [NOUVEAU] Ajout du support de recherche dans le dictionnaire dans Terminologie pour iPhone et iPad.
+* [NOUVEAU] Ajout de plus grandes tailles de police pour ceux qui aiment les gros caractères.
+* [NOUVEAU] Ajout de la Journalisation du Débogage pour que vous puissiez mieux débogguer les problèmes de synchronisation.
+* [NOUVEAU] Ajout du listing 'Autres Applis'
+* [NOUVEAU] Ajout du rapport de crash intégré.
+* [CHANGEMENT] Ajout d'un bouton Edition au contrôleur de listing de fichier.
+* [CHANGEMENT] Mise à jour vers la dernière version du kit Markdown.
+* [CHANGEMENT] Elements requiert à présent iOS 4.0.
+* [CHANGEMENT] Enlèvement des release notes intégrées.
+* [CHANGEMENT] Renommage de la vue des paramètres de Taille de Police en Taille de Texte.
+* [RESOLU] Solutionné le bug qui faisait que l'ajustement du paramètre d'extension de visibilité ne se reflétait pas immédiatement dans le fichier visible sur l'iPhone.
+* [RESOLU] L'impression de popover devrait maintenant être correctement annulée en tapant sur un autre objet popover sur l'iPad.
+* [RESOLU] La vue contrôleurs configure maintenant correctement l'objet backBarButtonItem au lieu de leftBarButtonItem afin que le bouton ne se transforme pas en une non-image quand une vue modale est annulée.
+* [RESOLU] Réparation de l'apparence des images de démarrage.
+* [RESOLU] La vue web redimensionne maintenant les contenus lorsqu'une rotation se passe avec la prévisualisation Markdown visible.
+* [RESOLU] Désormais une vérification se passe pour contrôler si une copie locale d'un dossier existe quand vous essayez déterminer un nouveau nom de dossier. Si c'est le cas, nous continuons simplement et incrémentons vers le  prochain nombre disponible.
+* [RESOLU] Ajouté plus de rapports d'erreur pour des erreurs de renommage de fichiers et de dossiers.
+* [RESOLU] Ajouté une section légale avec des droits d'auteur et autres pour les composants que j'utilise.
+* [RESOLU] Toutes les erreurs et avertissements journalisés sont maintenant grammaticalement corrects.
+* [RESOLU] Quand vous déterminez un nom unique pour de nouveaux fichiers, nous les vérifions pour s'assurer qu'il n'y a pas déjà de fichier avec ce nom dans le système de fichier.
+* [RESOLU] Solutionné le problème qui faisait que la barre de style était du mauvais style au lancement de l'appli.
+* [RESOLU] Solutionné le problème qui faisait que tout UTI public.data était importable dans Elements
 
 Si vous appréciez Elements, n'oubliez pas de rajouter 5 étoiles à la note de l'appli sur l'App Store. Les applis les mieux notéees par nos utilisateurs nous permettent de faire des mises à jour et permettent aux autres utilisateurs de découvrir l'appli.
 
 Veuillez s'il vous plait éviter d'envoyer vos rapports de bug ou vos demandes de fonctionnalités supplémentaires à travers l'AppStore. A la place, pour obtenir une réponse directe de notre part, envoyez les à support@secondgearsoftware.com. Ou envoyez nous un tweet à http://twitter.com/secondgear ou Aimez-Nous sur Facebook http://www.facebook.com/secondgearsoftware. Nous sommes toujours heureux d'aider nos utilisateurs et de répondre à leurs commentaires!
 
-Thank you!
+Merci!

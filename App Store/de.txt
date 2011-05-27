@@ -1,18 +1,18 @@
-★★★VOTED TEXT EDITOR OF THE YEAR BY MACWORLD AND ONE OF GIZMODO'S BEST IPAD APPS★★★
+★★★GEWÄHLTER TEXTEDITOR DES JAHRES VON MACWORLD UND EINE VON GIZMODOS BESTEN IPAD-APPS★★★
 
-Elements is ein wunderschöner, vielseitiger Texteditor für iOS. Elements ermöglicht es Ihnen, unformatierte Textdokumente mit Ihrem iPad, iPhone oder iPod touch anzusehen, zu bearbeiten oder gemeinsam zu nutzen. Ihre Dokumente werden dabei auf Ihrer Dropbox gesichert und können so auf jedem Ihrer Geräte betrachtet oder bearbeitet werden.
+Elements ist ein wunderschöner, vielseitiger Texteditor für iOS. Elements ermöglicht es Ihnen, unformatierte Textdokumente mit Ihrem iPad, iPhone oder iPod touch anzusehen, zu bearbeiten oder gemeinsam zu nutzen. Ihre Dokumente werden dabei auf Ihrer Dropbox gesichert und können so auf jedem Ihrer Geräte betrachtet oder bearbeitet werden.
 
 Ob Sie nun freier Schriftsteller sind, und Ihren nächsten Artikel verfassen wollen, oder ein Schüler, für den die nächste Buchbesprechung fällig wird, oder wenn Sie auch unterwegs immer Zugriff auf Ihre wichtigen Notizen haben müssen - Elements ist das Werkzeug Ihrer Wahl!
 
 FUNKTIONEN
 
 - Erstellen, betrachten und bearbeiten von Textdokumenten (.txt) auf Ihrem iPhone, iPad oder iPod touch.
-- Cloud basiert: Elements legt alle Dokumente in einem /Elements Unterverzeichnis auf Ihrer persönlicheh Dropbox ab. So können Sie jederzeit mit Ihrem iPhone, iPad, Mac oder PC auf sie zugreifen.
+- Cloud basiert: Elements legt alle Dokumente in einem /Elements Unterverzeichnis auf Ihrer persönliche Dropbox ab. So können Sie jederzeit mit Ihrem iPhone, iPad, Mac oder PC auf sie zugreifen.
 - Automatische Sicherung
-- Organize your files into sub-folders
-- Create and edit Markdown file formats
-- Preview Markdown formatted documents
-- Offline Unterstützung: Sichern Sie Ihre Änderungen wenn Sie das nächste Mal online sind.
+- Organisieren Sie Ihre Dateien in Unterordnern
+- Erstellen und bearbeiten Sie Markdown-Dateiformate
+- Vorschau der Markdown-Formatierten Dokumente
+- Offline Unterstützung: Sichern Sie Ihre Änderungen, wenn Sie das nächste Mal online sind.
 - Volltextsuche in Ihren Elements Dokumenten.
 - Wörter, Buchstaben und Zeilen werden gezählt.
 - Ein Notizbuch, zum Aufschreiben Ihrer Ideen zwischendurch.
@@ -24,17 +24,17 @@ FUNKTIONEN
 
 WAS SAGEN DIE ANDEREN
 
-"Works like a charm. Great idea." — John Gruber, Daring Fireball
+"Funktioniert wie am Schnürchen. Großartige Idee." — John Gruber, Daring Fireball
 
-"This simple, easy to use text app is a must" — 148apps
+"Diese einfache, einfach zu benutzende Textanwendung ist ein Muss." — 148apps
 
-"This is a really simple, nice text editor." — Leo Laporte
+"Das ist ein wirklich einfacher, toller Texteditor." — Leo Laporte
 
-"A perfect Dropbox-syncing text editor for writers." — Cult of Mac
+"Ein perfekter Dropbox-Synchronisierender Texteditor für Schreiber." — Cult of Mac
 
-"A must-have app for iPad-using writers" — Dennis Sellers, Macsimum News
+"Eine Muss-Anwendung für Schreiber mit iPad" — Dennis Sellers, Macsimum News
 
-"It's a great app." — MacStories.net
+"Es ist eine tolle App." — MacStories.net
 
 VORAUSSETZUNGEN
 
@@ -46,31 +46,31 @@ UNTERSTÜTZUNG
 
 Vielen Dank für die Unterstützung von Elements.  Wir in der Second Gear Garage haben hart an der neuen Version gearbeitet, und eine Menge der von Ihnen gewünschten Funktionen eingebaut.
 
-* [NEW] Added support for rendering Markdown Extra style footnotes.
-* [NEW] Added support for dictionary lookups in Terminology for iPhone or iPad.
-* [NEW] Added larger font sizes for those that like big letters.
-* [NEW] Added Debug Logging setting so you can better debug what sync issues are happening.
-* [NEW] Added 'Other Apps' listing
-* [NEW] Added in-app crash reporting.
-* [CHANGE] Added Edit button to file listing controller.
-* [CHANGE] Updated to latest version of MarkdownKit.
-* [CHANGE] Elements now requires iOS 4.0.
-* [CHANGE] Removed in-app release notes.
-* [CHANGE] Renamed the Font Size settings view to Text Size.
-* [FIX] Resolved bug where adjusting the extension visibility setting didn't immediately reflect in the visible file on the iPhone.
-* [FIX] Print popover should now properly be dismissed when tapping on another popover item on the iPad.
-* [FIX] View controllers now properly set the backBarButtonItem instead of leftBarButtonItem so that the button does not revert to a non-image when a modal view is dismissed.
-* [FIX] Fixed the appearance of startup images.
-* [FIX] Web view now resizes contents when rotating with the Markdown preview visible.
-* [FIX] Now checking if a local copy of a folder exists when trying to determine a unique new folder name. If it does, we just go ahead and increment to the next available number. 
-* [FIX] Appended some more error reporting for file and folder renaming errors.
-* [FIX] Added legal section with copyrights and stuff for components I use.
-* [FIX] All logged errors and warnings are now grammatically correct.
-* [FIX] When determining a unique file name for new files, we check to ensure there's not a file already created in the file system with that name.
-* [FIX] Resolved issue where status bar style was wrong style on app launch.
-* [FIX] Resolved issue where any public.data UTI would be offered as importable into Elements.
+* [NEU] Unterstützung des Renderns von Markdown Extra Style-Fußnoten hinzugefügt.
+* [NEU] Unterstützung für Wörterbuch-Nachschlag bei Fachbegriffen für iPhone oder iPad hinzugefügt.
+* [NEU] Größere Schriftgrößen für diejenigen, die große Buchstaben mögen, hinzugefügt.
+* [NEU] Logging-Einstellung hinzugefügt, um Ihnen das Debuggen von Synchronisationsproblemen zu erleichtern.
+* [NEU] "Andere Apps" - Listing hinzugefügt
+* [NEU] In-App Funktion für das Berichten von Crashes hinzugefügt.
+* [GEÄNDERT] Bearbeiten-Schaltfläche zum Dateilistingcontroller hinzugefügt.
+* [GEÄNDERT] Auf neueste Version von MarkdownKit aktualisiert. 
+* [GEÄNDERT] Elements benötigt nun iOS 4.0.
+* [GEÄNDERT] In-App Release-Notizen entfernt.
+* [GEÄNDERT] Schriftgrößen-Einstellungsansicht auf Textgröße umbenannt.
+* [BEHOBEN] Fehler gelöst, bei dem das Einstellen der Extensions-Sichbarkeitseinstellung das Resultat nicht sofort am iPhone sichtbar war.
+* [BEHOBEN] Druck-Popover sollte nun korrekt ausgeblendet werden, wenn auf ein anderes Popover-Objekt auf dem iPad getippt wird.
+* [BEHOBEN] Ansichts-Controller stellen nun korrekt backBarButtonItem anstatt leftBarButtonItem, sodass die Schaltfläche nicht zu einem Nicht-Bild umgekehrt wird, wenn eine Modalansicht ausgeblendet wird.
+* [BEHOBEN] Aussehen der Start-Bilder wurde korrigiert.
+* [BEHOBEN] Die Netzansicht verkleinert Inhalte nun, wenn mit der sichtbaren Markdown-Voransicht rotiert wird.
+* [BEHOBEN] Es wird nun beim Entscheiden eines neues einzigartigen Ordnernamen überprüft, ob eine lokale Kopie des Ordners existiert. Wenn dies der Fall ist, erhöhen wir einfach auf die nächsthöhere verfügbare Zahl.
+* [BEHOBEN] Mehre Fehlerberichte für Fehler beim Umbenennen von Dateien und Ordnern.
+* [BEHOBEN] Legale Sektion hinzugefügt, für Copyrights und Sachen für Komponenten, die ich verwende.
+* [BEHOBEN] Alle geloggten Fehler und Warnungen sind nun grammatikalisch korrekt.
+* [BEHOBEN] Beim Auswählen eines neuen Dateinamens für neue Daten, stellen wir sicher, dass keine Datei mit demselben Namen bereits im Dateisystem existiert.
+* [BEHOBEN] Problem gelöst, bei dem der Statusleisten-Style beim App-Start falsch war.
+* [BEHOBEN] Fehler behoben, bei dem jede public.data UTI als in Elements importabel angeboten wurde.
 
-Wenn Elements Ihnen gefällt, dann bewerten Sie bitte jede neue Version im App Store mit fünf Sternen! Hohe Bewertungen von unseren Kunden sicher die Zukunft unserer Apps und zeigen potentiellen Kunden wie sehr Sie MarkdownMail mögen.
+Wenn Elements Ihnen gefällt, dann bewerten Sie bitte jede neue Version im App Store mit fünf Sternen! Hohe Bewertungen von unseren Kunden sicher die Zukunft unserer Apps und zeigen potentiellen Kunden wie sehr Sie Elements mögen.
 
 Bitte nehmen Sie davon Abstand, Fehler oder Verbesserungsvorschläge direkt im App Store zu äußern. Für einen besseren Informationsaustausch senden Sie stattdessen bitte eine Mail an elements@secondgearsoftware.com. Sie erreichen uns auch über Twitter unter @secondgear (http://twitter.com/secondgear) oder drücken Sie Ihr Gefallen für uns bei Facebook aus (http://facebook.com/secondgearsoftware). Wir freuen uns immer Ihnen helfen zu können und sind gespannt auf Ihre Kommentare.
 
