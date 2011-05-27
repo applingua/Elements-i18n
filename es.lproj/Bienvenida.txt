@@ -1,0 +1,42 @@
+¡Hola!
+
+¡Gracias por descargar Elements! 
+
+Elements es un nuevo editor de texto de Second Gear que funciona mediante Dropbox.  Elements permite ver, editar y compartir documentos de texto sin formato a través de iPad, iPhone o iPod touch.  Todos los datos se almacenan en su cuenta personal de Dropbox.  
+
+## ¿A dónde van los archivos?
+
+La primera vez que inicia sesión, Elements crea una nueva carpeta llamada «Elements» en Dropbox.  La carpeta Elements debería contener un solo archivo llamado «Bienvenida.txt».  ¡Ese es el archivo que está leyendo ahora mismo!  
+
+Cada vez que edita uno de los archivos de texto de «Elements» o en su Mac o PC, los cambios se enviarán de nuevo a Dropbox y se propagarán desde allí.  Nota: Dropbox no es una plataforma de sincronización real, y no permite que varias personas trabajen en el mismo archivo desde diferentes lugares al mismo tiempo. Sin embargo, si usted es alguien que escribe un poco en su Mac y a continuación va con su iPad a la cafetería para continuar desde allí, Elements es perfecto para usted.
+
+## Características
+
+Elements incluye lo imprescindible para asistirle en su escritura sin interferir:
+
+* Cree nuevos archivos.
+* Organice sus archivos en subcarpetas.
+* Abra, edite y previsualice archivos Markdown.
+* Guarde sus archivos automáticamente cada 60 segundos (requiere conexión de red).
+* Recuente palabras, caracteres y líneas.
+* Utilice el bloc de notas para anotar apuntes e ideas mientras está escribiendo.  
+* Compatible con TextExpander touch  
+* Envíe sus archivos como adjuntos por correo electrónico.  
+
+## Asistencia y comentarios
+
+Si tiene alguna pregunta acerca de cómo utilizar Dropbox, quiere sugerir una nueva característica o simplemente desea saludar, envíenos un correo electrónico. 
+
+Línea de comentarios de Second Gear: support@secondgearsoftware.com
+
+## Déjenos su reseña
+
+Si le gusta Elements, le rogamos que dedique unos minutos a escribir una reseña en el App Store para el resto de usuarios.  Los comentarios juegan un papel clave para asegurar el éxito de los productos y nuestra capacidad para publicar actualizaciones.  
+
+Hemos diseñado Elements para que sea una plataforma de escritura sin fricciones y esperamos que sea de su agrado.  
+
+- 
+Second Gear 
+Web: http://www.secondgearsoftware.com
+Correo electrónico: support@secondgearsoftware.com
+Twitter: @secondgear
