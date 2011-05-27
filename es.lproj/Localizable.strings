@@ -71,6 +71,9 @@
 "Debugging" = "Depuración";
 
 /* No comment provided by engineer. */
+"Default Extension" = "Default Extension";
+
+/* No comment provided by engineer. */
 "Define" = "Definir";
 
 /* No comment provided by engineer. */
@@ -126,6 +129,9 @@
 
 /* No comment provided by engineer. */
 "Error Opening File" = "Error al abrir el archivo";
+
+/* No comment provided by engineer. */
+"Error parsing Dropbox metadata json." = "Error parsing Dropbox metadata json.";
 
 /* No comment provided by engineer. */
 "Error Saving Local Changes" = "Error al guardar los cambios locales";
@@ -197,10 +203,16 @@
 "Metadata Refresh Error" = "Error de actualización de metadatos";
 
 /* No comment provided by engineer. */
-"Modified" = "Modificado";
+"Modified ↑" = "Modificado ↑";
 
 /* No comment provided by engineer. */
-"Name" = "Nombre";
+"Modified ↓" = "Modificado ↓";
+
+/* No comment provided by engineer. */
+"Name ↑" = "Nombre ↑";
+
+/* No comment provided by engineer. */
+"Name ↓" = "Nombre ↓";
 
 /* No comment provided by engineer. */
 "New Folder" = "Nueva carpeta";
@@ -344,7 +356,7 @@
 "Untitled" = "Sin título";
 
 /* No comment provided by engineer. */
-"Untitled %ld.txt" = "Sin título %ld.txt";
+"Untitled %ld.%@" = "Sin título %ld.%@";
 
 /* No comment provided by engineer. */
 "Web" = "Web";
@@ -357,6 +369,9 @@
 
 /* No comment provided by engineer. */
 "Word Count" = "Recuento de palabras";
+
+/* No comment provided by engineer. */
+"Words (%d)" = "Words (%d)";
 
 /* No comment provided by engineer. */
 "Would you like to register your copy of Elements?  Registering allows us to tell you about important Elements bug fixes, new features and other cool stuff being worked on in the Second Gear garage." = "¿Desea registrar su copia de Elements?  El registro nos permite informarle acerca de la solución de errores importantes de Elements, nuevas características y otras funciones que están en proyecto en el taller de Second Gear.";
