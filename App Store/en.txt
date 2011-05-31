@@ -49,31 +49,16 @@ Thank you!
 
 ======
 
-Thank you for supporting Elements! I'd like to apologize for the delay between updates. We're hard at work on Elements 2 in the Second Gear garage, but it's taking a bit longer than we'd hoped.  In the interim, we'll aim to return to regular updates to Elements.   
+Thank you for supporting Elements! We've been hard at work in the Second Gear garage making a new version that adds many features of the features you've requested. 
 
-* [NEW] Added support for rendering Markdown Extra style footnotes.
-* [NEW] Added support for dictionary lookups in Terminology for iPhone or iPad.
-* [NEW] Added larger font sizes for those that like big letters.
-* [NEW] Added Debug Logging setting so you can better debug what sync issues are happening.
-* [NEW] Added 'Other Apps' listing
-* [NEW] Added in-app crash reporting.
-* [CHANGE] Added Edit button to file listing controller.
-* [CHANGE] Updated to latest version of MarkdownKit.
-* [CHANGE] Elements now requires iOS 4.0.
-* [CHANGE] Removed in-app release notes.
-* [CHANGE] Renamed the Font Size settings view to Text Size.
-* [FIX] Resolved bug where adjusting the extension visibility setting didn't immediately reflect in the visible file on the iPhone.
-* [FIX] Print popover should now properly be dismissed when tapping on another popover item on the iPad.
-* [FIX] View controllers now properly set the backBarButtonItem instead of leftBarButtonItem so that the button does not revert to a non-image when a modal view is dismissed.
-* [FIX] Fixed the appearance of startup images.
-* [FIX] Web view now resizes contents when rotating with the Markdown preview visible.
-* [FIX] Now checking if a local copy of a folder exists when trying to determine a unique new folder name. If it does, we just go ahead and increment to the next available number. 
-* [FIX] Appended some more error reporting for file and folder renaming errors.
-* [FIX] Added legal section with copyrights and stuff for components I use.
-* [FIX] All logged errors and warnings are now grammatically correct.
-* [FIX] When determining a unique file name for new files, we check to ensure there's not a file already created in the file system with that name.
-* [FIX] Resolved issue where status bar style was wrong style on app launch.
-* [FIX] Resolved issue where any public.data UTI would be offered as importable into Elements.
+* [NEW] Added support for setting default file extension for new files.
+* [NEW] Added support for using TextExpander in file name field. 
+* [NEW] Added support for getting word count of a selected string of text.
+* [NEW] Added ability to adjust sort order ascending or descending.
+* [CHANGE] Moved sorting to settings. 
+* [CHANGE] Pressing Done when editing a file name now sets the file's contents as the first responder.
+* [FIX] Resolved issue where paywalls would cause Dropbox to erroneously report successful operations.
+* [FIX] Resolved issue where you could show the action sheet multiple times. 
 
 If you enjoy Elements, please be sure to rate each new version 5 stars on the App Store.  High reviews from our customers ensure future updates to apps and allow new customers to see how many people enjoy Elements.
 

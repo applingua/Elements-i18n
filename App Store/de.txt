@@ -46,29 +46,14 @@ UNTERSTÜTZUNG
 
 Vielen Dank für die Unterstützung von Elements.  Wir in der Second Gear Garage haben hart an der neuen Version gearbeitet, und eine Menge der von Ihnen gewünschten Funktionen eingebaut.
 
-* [NEU] Unterstützung des Renderns von Markdown Extra Style-Fußnoten hinzugefügt.
-* [NEU] Unterstützung für Wörterbuch-Nachschlag bei Fachbegriffen für iPhone oder iPad hinzugefügt.
-* [NEU] Größere Schriftgrößen für diejenigen, die große Buchstaben mögen, hinzugefügt.
-* [NEU] Logging-Einstellung hinzugefügt, um Ihnen das Debuggen von Synchronisationsproblemen zu erleichtern.
-* [NEU] "Andere Apps" - Listing hinzugefügt
-* [NEU] In-App Funktion für das Berichten von Crashes hinzugefügt.
-* [GEÄNDERT] Bearbeiten-Schaltfläche zum Dateilistingcontroller hinzugefügt.
-* [GEÄNDERT] Auf neueste Version von MarkdownKit aktualisiert. 
-* [GEÄNDERT] Elements benötigt nun iOS 4.0.
-* [GEÄNDERT] In-App Release-Notizen entfernt.
-* [GEÄNDERT] Schriftgrößen-Einstellungsansicht auf Textgröße umbenannt.
-* [BEHOBEN] Fehler gelöst, bei dem das Einstellen der Extensions-Sichbarkeitseinstellung das Resultat nicht sofort am iPhone sichtbar war.
-* [BEHOBEN] Druck-Popover sollte nun korrekt ausgeblendet werden, wenn auf ein anderes Popover-Objekt auf dem iPad getippt wird.
-* [BEHOBEN] Ansichts-Controller stellen nun korrekt backBarButtonItem anstatt leftBarButtonItem, sodass die Schaltfläche nicht zu einem Nicht-Bild umgekehrt wird, wenn eine Modalansicht ausgeblendet wird.
-* [BEHOBEN] Aussehen der Start-Bilder wurde korrigiert.
-* [BEHOBEN] Die Netzansicht verkleinert Inhalte nun, wenn mit der sichtbaren Markdown-Voransicht rotiert wird.
-* [BEHOBEN] Es wird nun beim Entscheiden eines neues einzigartigen Ordnernamen überprüft, ob eine lokale Kopie des Ordners existiert. Wenn dies der Fall ist, erhöhen wir einfach auf die nächsthöhere verfügbare Zahl.
-* [BEHOBEN] Mehre Fehlerberichte für Fehler beim Umbenennen von Dateien und Ordnern.
-* [BEHOBEN] Legale Sektion hinzugefügt, für Copyrights und Sachen für Komponenten, die ich verwende.
-* [BEHOBEN] Alle geloggten Fehler und Warnungen sind nun grammatikalisch korrekt.
-* [BEHOBEN] Beim Auswählen eines neuen Dateinamens für neue Daten, stellen wir sicher, dass keine Datei mit demselben Namen bereits im Dateisystem existiert.
-* [BEHOBEN] Problem gelöst, bei dem der Statusleisten-Style beim App-Start falsch war.
-* [BEHOBEN] Fehler behoben, bei dem jede public.data UTI als in Elements importabel angeboten wurde.
+* [NEU] Added support for setting default file extension for new files.
+* [NEU] Added support for using TextExpander in file name field. 
+* [NEU] Added support for getting word count of a selected string of text.
+* [NEU] Added ability to adjust sort order ascending or descending.
+* [GEÄNDERT] Moved sorting to settings. 
+* [GEÄNDERT] Pressing Done when editing a file name now sets the file's contents as the first responder.
+* [BEHOBEN] Resolved issue where paywalls would cause Dropbox to erroneously report successful operations.
+* [BEHOBEN] Resolved issue where you could show the action sheet multiple times. 
 
 Wenn Elements Ihnen gefällt, dann bewerten Sie bitte jede neue Version im App Store mit fünf Sternen! Hohe Bewertungen von unseren Kunden sicher die Zukunft unserer Apps und zeigen potentiellen Kunden wie sehr Sie Elements mögen.
 

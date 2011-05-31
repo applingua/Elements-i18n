@@ -51,29 +51,14 @@ Le rogamos se abstenga de enviar informes de error o peticiones de nuevas funcio
 
 ¡Gracias por apoyar a Elements! Hemos estado trabajando con empeño en el taller de Second Gear para conseguir una nueva versión equipada con muchas de las características solicitadas por nuestros clientes.
 
-* [NUEVO] Compatibilidad para crear notas a pie de página estilo Markdown Extra añadida.
-* [NUEVO] Compatibilidad para búsquedas de diccionario en Terminology para iPhone o iPad añadida.
-* [NUEVO] Mayores tamaños de fuente para aquellos que precisan letras grandes añadidos.
-* [NUEVO] Configuración de registro de depuración para que sea más fácil depurar eventuales problemas de sincronización añadida.
-* [NUEVO] Lista «Otras aplicaciones» añadida.
-* [NUEVO] Informe interno de cierre inesperado de la aplicación añadido.
-* [CAMBIO] Botón Editar al controlador del listado de archivos añadido.
-* [CAMBIO] Actualizado a la versión más reciente de MarkdownKit.
-* [CAMBIO] Elements ahora requiere iOS 4.0.
-* [CAMBIO] Notas internas de la versión eliminadas.
-* [CAMBIO] Tamaño de fuente renombrado a Tamaño de texto.
-* [SOLUCIÓN] Error causante de que el ajuste de la configuración de visibilidad de extensión no se reflejara inmediatamente en el archivo visible en el iPhone solucionado.
-* [SOLUCIÓN] La opción Imprimir emergente se descarta correctamente al pulsar sobre otro elemento emergente en el iPad.
-* [SOLUCIÓN] Los controladores de visualización ahora configuran correctamente el backBarButtonItem en lugar del leftBarButtonItem para que el botón no se convierta en una no-imagen al descartar la vista modal.
-* [SOLUCIÓN] Aspecto de las imágenes de inicio solucionado.
-* [SOLUCIÓN] La vista web ahora cambia el tamaño de los contenidos al rotar con la vista previa Markdown visible.
-* [SOLUCIÓN] Se comprueba si existe una copia local de una carpeta al tratar de determinar un nombre único para una nueva carpeta. En tal caso, el proceso continúa y utiliza el siguiente número disponible. 
-* [SOLUCIÓN] Se anexan informes de error adicionales a los errores producidos al cambiar el nombre de archivo o carpeta.
-* [SOLUCIÓN] Sección jurídica con derechos de autor y otros conceptos para los componentes en uso.
-* [SOLUCIÓN] Todos los errores y advertencias registrados son ahora gramaticalmente correctos.
-* [SOLUCIÓN] Al determinar un nombre de archivo único para nuevos archivos, se comprueba que no exista un archivo creado en el sistema con dicho nombre.
-* [SOLUCIÓN] Problema que causaba que el estilo de la barra de estado fuera erróneo al ejecutar la aplicación resuelto.
-* [SOLUCIÓN] Problema que causaba que cualquier public.data UTI apareciera como  importable en Elements resuelto.
+* [NUEVO] Added support for setting default file extension for new files.
+* [NUEVO] Added support for using TextExpander in file name field. 
+* [NUEVO] Added support for getting word count of a selected string of text.
+* [NUEVO] Added ability to adjust sort order ascending or descending.
+* [CAMBIO] Moved sorting to settings. 
+* [CAMBIO] Pressing Done when editing a file name now sets the file's contents as the first responder.
+* [SOLUCIÓN] Resolved issue where paywalls would cause Dropbox to erroneously report successful operations.
+* [SOLUCIÓN] Resolved issue where you could show the action sheet multiple times. 
 
 Si le gusta Elements, no olvide valorar cada nueva versión con 5 estrellas en el App Store.  Las altas reseñas de nuestros clientes garantizan las actualizaciones futuras de las aplicaciones y permiten que nuestros nuevos clientes descubran la cantidad de personas que disfrutan de Elements.
 
