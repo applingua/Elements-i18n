@@ -1,11 +1,11 @@
-/* No comment provided by engineer. */
+﻿/* No comment provided by engineer. */
 "A file exists with that name already." = "Un fichier avec ce nom existe déjà.";
 
 /* No comment provided by engineer. */
 "A folder exists with that name already." = "Un dossier avec ce nom existe déjà.";
 
 /* No comment provided by engineer. */
-"About Elements" = "A propos d'Elements";
+"About Elements" = "À propos d'Elements";
 
 /* No comment provided by engineer. */
 "add file" = "ajouter un fichier";
@@ -68,13 +68,13 @@
 "Debug Logging" = "Traces pour le débug";
 
 /* No comment provided by engineer. */
-"Debugging" = "Debugging";
+"Debugging" = "Débogage";
 
 /* No comment provided by engineer. */
-"Default Extension" = "Default Extension";
+"Default Extension" = "Extension par défaut";
 
 /* No comment provided by engineer. */
-"Define" = "Define";
+"Define" = "Définir";
 
 /* No comment provided by engineer. */
 "document information" = "information document";
@@ -119,7 +119,7 @@
 "Enter a folder name" = "Choisissez un nom de dossier";
 
 /* No comment provided by engineer. */
-"Enter your email address" = "Enter your email address";
+"Enter your email address" = "Entrez votre adresse email";
 
 /* No comment provided by engineer. */
 "Error" = "Erreur";
@@ -131,7 +131,7 @@
 "Error Opening File" = "Erreur d'ouverture";
 
 /* No comment provided by engineer. */
-"Error parsing Dropbox metadata json." = "Error parsing Dropbox metadata json.";
+"Error parsing Dropbox metadata json." = "Erreur pendant le traitement des méta-données Dropbox json";
 
 /* No comment provided by engineer. */
 "Error Saving Local Changes" = "Erreur à la sauvegarde des changements en local";
@@ -176,7 +176,7 @@
 "Last Name" = "Nom";
 
 /* No comment provided by engineer. */
-"Legal" = "Legal";
+"Legal" = "Légal";
 
 /* No comment provided by engineer. */
 "Like us!" = "Aimez-nous!";
@@ -203,16 +203,16 @@
 "Metadata Refresh Error" = "Erreur de rafraichissement des métadonnées";
 
 /* No comment provided by engineer. */
-"Modified ↑" = "Modified ↑";
+"Modified ↑" = "Modifié ↑";
 
 /* No comment provided by engineer. */
-"Modified ↓" = "Modified ↓";
+"Modified ↓" = "Modifié ↓";
 
 /* No comment provided by engineer. */
-"Name ↑" = "Name ↑";
+"Name ↑" = "Nom ↑";
 
 /* No comment provided by engineer. */
-"Name ↓" = "Name ↓";
+"Name ↓" = "Nom ↓";
 
 /* No comment provided by engineer. */
 "New Folder" = "Nouveau dossier";
@@ -221,7 +221,7 @@
 "New Folder %ld" = "Nouveau Dossier %ld";
 
 /* No comment provided by engineer. */
-"Newsletter Signup" = "Newsletter Signup";
+"Newsletter Signup" = "S'abonner à la Newsletter";
 
 /* No comment provided by engineer. */
 "No" = "Non";
@@ -242,10 +242,10 @@
 "Print" = "Imprimer";
 
 /* No comment provided by engineer. */
-"Receive infrequent updates on Elements updates and other Second Gear apps. You can unsubscribe at anytime." = "Receive infrequent updates on Elements updates and other Second Gear apps. You can unsubscribe at anytime.";
+"Receive infrequent updates on Elements updates and other Second Gear apps. You can unsubscribe at anytime." = "Recevoir les mises à jour non fréquentes sur Elements et les autres applis Second Gear. Vous pouvez vous désinscrire à tout moment.";
 
 /* No comment provided by engineer. */
-"Receive Second Gear News" = "Receive Second Gear News";
+"Receive Second Gear News" = "Recevoir les news de Second Gear";
 
 /* No comment provided by engineer. */
 "Register" = "Enregistrer";
@@ -254,7 +254,7 @@
 "Register Elements" = "Enregistrer Elements";
 
 /* No comment provided by engineer. */
-"Registering..." = "Enregistrement...";
+"Registering..." = "Enregistrement…";
 
 /* No comment provided by engineer. */
 "Registration Failed" = "Echec de l'enregistrement";
@@ -290,7 +290,7 @@
 "settings" = "réglages";
 
 /* No comment provided by engineer. */
-"Shareables" = "Shareables";
+"Shareables" = "Partages";
 
 /* No comment provided by engineer. */
 "Show Extensions" = "Voir les Extensions";
@@ -317,7 +317,7 @@
 "Signup Failed" = "La souscription a échoué";
 
 /* No comment provided by engineer. */
-"Sort By" = "Sort By";
+"Sort By" = "Trier Par";
 
 /* No comment provided by engineer. */
 "Style" = "Style";
@@ -344,7 +344,7 @@
 "Thanks" = "Merci";
 
 /* No comment provided by engineer. */
-"The scratchpad is a great place to jot down quick ideas, store paragraphs you want to get out of the way, or just make a note for yourself later on." = "Le bloc note est un endroit idéeal pour éecrire de nouvelles idées rapidement, stocker des paragraphes qui gênent ou pour faire une note pour plus tard.";
+"The scratchpad is a great place to jot down quick ideas, store paragraphs you want to get out of the way, or just make a note for yourself later on." = "Le bloc note est un endroit idéal pour écrire de nouvelles idées rapidement, stocker des paragraphes qui gênent ou pour faire une note pour plus tard.";
 
 /* No comment provided by engineer. */
 "Twitter" = "Twitter";
@@ -353,13 +353,13 @@
 "Undo File Remove" = "Annuler l'effacement du fichier";
 
 /* No comment provided by engineer. */
-"Untitled" = "SansNom";
+"Untitled" = "Sans titre";
 
 /* No comment provided by engineer. */
-"Untitled %ld.%@" = "Untitled %1$ld.%2$@";
+"Untitled %ld.%@" = "Sans titre %ld.%@";
 
 /* No comment provided by engineer. */
-"View" = "View";
+"View" = "Présentation";
 
 /* No comment provided by engineer. */
 "Web" = "Web";
@@ -374,7 +374,7 @@
 "Word Count" = "Nombre de mots";
 
 /* No comment provided by engineer. */
-"Words (%d)" = "Words (%d)";
+"Words (%d)" = "Mots (%d)";
 
 /* No comment provided by engineer. */
 "Would you like to register your copy of Elements?  Registering allows us to tell you about important Elements bug fixes, new features and other cool stuff being worked on in the Second Gear garage." = "Voulez vous enregistrer votre copie d'Elements? Cela nous permettra de vous avertir des mises à jour importantes, corrections de bugs graves, nouvelles fonctions, et des autres choses cool que SecondGear fait dans son garage.";

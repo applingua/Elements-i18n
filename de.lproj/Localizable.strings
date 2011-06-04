@@ -1,4 +1,4 @@
-/* No comment provided by engineer. */
+﻿/* No comment provided by engineer. */
 "A file exists with that name already." = "Ein Dokument mit diesem Namen existiert bereits.";
 
 /* No comment provided by engineer. */
@@ -71,7 +71,7 @@
 "Debugging" = "Debug";
 
 /* No comment provided by engineer. */
-"Default Extension" = "Default Extension";
+"Default Extension" = "Standard Dateierweiterung";
 
 /* No comment provided by engineer. */
 "Define" = "Definieren";
@@ -131,7 +131,7 @@
 "Error Opening File" = "Fehler beim Öffnen des Dokuments";
 
 /* No comment provided by engineer. */
-"Error parsing Dropbox metadata json." = "Error parsing Dropbox metadata json.";
+"Error parsing Dropbox metadata json." = "Fehler beim einlesen der Dropbox json Metadaten";
 
 /* No comment provided by engineer. */
 "Error Saving Local Changes" = "Fehler beim Sichern lokaler Daten";
@@ -188,7 +188,7 @@
 "Linked Folder" = "Verknüpfter Ordner";
 
 /* No comment provided by engineer. */
-"Loading..." = "Laden …";
+"Loading..." = "Lädt …";
 
 /* No comment provided by engineer. */
 "Login" = "Anmelden";
@@ -203,10 +203,10 @@
 "Metadata Refresh Error" = "Fehler beim Aktualisieren der Metadaten";
 
 /* No comment provided by engineer. */
-"Modified ↑" = "Modified ↑";
+"Modified ↑" = "Geändert ↑";
 
 /* No comment provided by engineer. */
-"Modified ↓" = "Modified ↓";
+"Modified ↓" = "Geändert ↓";
 
 /* No comment provided by engineer. */
 "Name ↑" = "Name ↑";
@@ -317,7 +317,7 @@
 "Signup Failed" = "Anmeldung fehlgeschlagen";
 
 /* No comment provided by engineer. */
-"Sort By" = "Sort By";
+"Sort By" = "Sortieren";
 
 /* No comment provided by engineer. */
 "Style" = "Format";
@@ -356,10 +356,10 @@
 "Untitled" = "Ohne Titel";
 
 /* No comment provided by engineer. */
-"Untitled %ld.%@" = "Untitled %ld.%@";
+"Untitled %ld.%@" = "Ohne Titel %ld.%@";
 
 /* No comment provided by engineer. */
-"View" = "View";
+"View" = "Darstellung";
 
 /* No comment provided by engineer. */
 "Web" = "Web";
@@ -374,11 +374,10 @@
 "Word Count" = "Wörter";
 
 /* No comment provided by engineer. */
-"Words (%d)" = "Words (%d)";
+"Words (%d)" = "Wörter (%d)";
 
 /* No comment provided by engineer. */
 "Would you like to register your copy of Elements?  Registering allows us to tell you about important Elements bug fixes, new features and other cool stuff being worked on in the Second Gear garage." = "Möchten Sie Elements registrieren? Dadurch können wir Sie über die Entwicklungen bei Elements und anderen Produkten von Second Gear auf dem Laufenden halten.";
 
 /* No comment provided by engineer. */
 "Your device is not allowed to send mail" = "Mit diesem Gerät können keine Mails versendet werden";
-
