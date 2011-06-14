@@ -1,4 +1,4 @@
-★★★ELU EDITEUR DE TEXTE DE L'ANNEE PAR MACWORLD ET UNE DES MEILLEURES APPLIS IPAD PAR GIZMODO★★★
+﻿★★★ELU EDITEUR DE TEXTE DE L'ANNEE PAR MACWORLD ET UNE DES MEILLEURES APPLIS IPAD PAR GIZMODO★★★
 
 Elements est un superbe et souple éditeur de texte pour iOS. Elements vous permet de consulter, éditer et partager des textes simples sur votre iPad, iPhone et iPod touch. Toutes vos données sont stockées dans votre compte Dropbox personnel et sont ainsi disponibles depuis tous vos appareils.  
 
@@ -49,16 +49,16 @@ Merci!
 
 ===============
 
-Merci pour votre support d'Elements! Nous avons travaillé dur dans le garage de Second Gear pour faire une nouvelle version qui intègre plein de nouvelles fonctions aux nouvelles fonctions que vous avez demandées.
+Merci pour votre soutien à Elements! Nous avons travaillé dur dans le garage de Second Gear pour faire une nouvelle version qui intègre plein de nouvelles fonctions aux nouvelles fonctions que vous avez demandées.
 
-* [NOUVEAU] Added support for setting default file extension for new files.
-* [NOUVEAU] Added support for using TextExpander in file name field. 
-* [NOUVEAU] Added support for getting word count of a selected string of text.
-* [NOUVEAU] Added ability to adjust sort order ascending or descending.
-* [CHANGEMENT] Moved sorting to settings. 
-* [CHANGEMENT] Pressing Done when editing a file name now sets the file's contents as the first responder.
-* [RESOLU] Resolved issue where paywalls would cause Dropbox to erroneously report successful operations.
-* [RESOLU] Resolved issue where you could show the action sheet multiple times. 
+* [NOUVEAU] Ajout du support de paramétrage d'extension par défaut pour les nouveaux fichiers.
+* [NOUVEAU] Ajout du support d'utilisation de TextExpander dans le champ nom. 
+* [NOUVEAU] Ajout du support du comptage de mots dans une chaine de texte sélectionnée.
+* [NOUVEAU] Ajout de la capacité à trier par ordre croissant ou décroissant.
+* [CHANGEMENT] Déplacement de trier vers paramètres. 
+* [CHANGEMENT] Cliquer sur Terminé pendant l'édition d'un nom de fichier configure maintenant le contenu du fichier comme le premier répondant.
+* [RESOLU] Solutionné le problème qui faisait que paywalls provoquait un rapport d'opérations exécutées par Dropbox avec succès de manière erronnée.
+* [RESOLU] Solutionné le problème qui faisait qu'il était possible d'afficher la feuille d'action plusieurs fois. 
 
 Si vous appréciez Elements, n'oubliez pas de rajouter 5 étoiles à la note de l'appli sur l'App Store. Les applis les mieux notéees par nos utilisateurs nous permettent de faire des mises à jour et permettent aux autres utilisateurs de découvrir l'appli.
 

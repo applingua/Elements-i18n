@@ -1,4 +1,4 @@
-★★★GEWÄHLTER TEXTEDITOR DES JAHRES VON MACWORLD UND EINE VON GIZMODOS BESTEN IPAD-APPS★★★
+﻿★★★GEWÄHLTER TEXTEDITOR DES JAHRES VON MACWORLD UND EINE VON GIZMODOS BESTEN IPAD-APPS★★★
 
 Elements ist ein wunderschöner, vielseitiger Texteditor für iOS. Elements ermöglicht es Ihnen, unformatierte Textdokumente mit Ihrem iPad, iPhone oder iPod touch anzusehen, zu bearbeiten oder gemeinsam zu nutzen. Ihre Dokumente werden dabei auf Ihrer Dropbox gesichert und können so auf jedem Ihrer Geräte betrachtet oder bearbeitet werden.
 
@@ -46,14 +46,14 @@ UNTERSTÜTZUNG
 
 Vielen Dank für die Unterstützung von Elements.  Wir in der Second Gear Garage haben hart an der neuen Version gearbeitet, und eine Menge der von Ihnen gewünschten Funktionen eingebaut.
 
-* [NEU] Added support for setting default file extension for new files.
-* [NEU] Added support for using TextExpander in file name field. 
-* [NEU] Added support for getting word count of a selected string of text.
-* [NEU] Added ability to adjust sort order ascending or descending.
-* [GEÄNDERT] Moved sorting to settings. 
-* [GEÄNDERT] Pressing Done when editing a file name now sets the file's contents as the first responder.
-* [BEHOBEN] Resolved issue where paywalls would cause Dropbox to erroneously report successful operations.
-* [BEHOBEN] Resolved issue where you could show the action sheet multiple times. 
+* [NEU] Unterstützung für das Einstellen von Standard-Dateiendungen für neue Dateien hinzugefügt.
+* [NEU] Unterstützung für das Benutzen von TextExpander im Dateinamen-Feld hinzugefügt.
+* [NEU] Unterstützung für die Anzeige der Wortanzahl eines bestimmten Textabschnittes hinzugefügt.
+* [NEU] Möglichkeit, Sortierreihenfolge auf aufsteigend/absteigend zu stellen, hinzugefügt.
+* [GEÄNDERT] Sortieren in Einstellungen verschoben. 
+* [GEÄNDERT] Das Betätigen von "Fertig" während des Bearbeitens eines Dateinamens stellt die Inhalte der Datei nun als Erstversorger ein.
+* [BEHOBEN] Problem behoben, bei dem Bezahlmauern Dropbox dazu führten, dass irrtümlicherweise erfolgreiche Operationen berichtet wurden.
+* [BEHOBEN] Problem behoben, bei dem das Aktions-Sheet mehrere Male angezeigt werden konnte.
 
 Wenn Elements Ihnen gefällt, dann bewerten Sie bitte jede neue Version im App Store mit fünf Sternen! Hohe Bewertungen von unseren Kunden sicher die Zukunft unserer Apps und zeigen potentiellen Kunden wie sehr Sie Elements mögen.
 

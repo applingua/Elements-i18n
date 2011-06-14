@@ -23,17 +23,17 @@ CARACTERÍSTICAS
 
 OPINIONES DE NUESTROS CLIENTES
 
-«Funciona de forma fantástica. Es una gran idea.» - John Gruber, de Daring Fireball
+«Funciona de forma fantástica. Es una gran idea» - John Gruber, de Daring Fireball
 
 «Esta aplicación de texto, sencilla y fácil de usar, es imprescindible» - 148Apps
 
-«Es un editor de texto agradable y sin complicaciones.» - Leo Laporte
+«Es un editor de texto agradable y sin complicaciones» - Leo Laporte
 
-«Un editor de texto para escritores, con una sincronización perfecta mediante Dropbox." - Cult of Mac
+«Un editor de texto para escritores, con una sincronización perfecta mediante Dropbox» - Cult of Mac
 
 «Una aplicación imprecindible para los escritores que utilizan el iPad» - Dennis Sellers, de Macsimum News
 
-«Es una gran aplicación.» - MacStories.net
+«Es una gran aplicación» - MacStories.net
 
 REQUISITOS
 
@@ -51,14 +51,14 @@ Le rogamos se abstenga de enviar informes de error o peticiones de nuevas funcio
 
 ¡Gracias por apoyar a Elements! Hemos estado trabajando con empeño en el taller de Second Gear para conseguir una nueva versión equipada con muchas de las características solicitadas por nuestros clientes.
 
-* [NUEVO] Added support for setting default file extension for new files.
-* [NUEVO] Added support for using TextExpander in file name field. 
-* [NUEVO] Added support for getting word count of a selected string of text.
-* [NUEVO] Added ability to adjust sort order ascending or descending.
-* [CAMBIO] Moved sorting to settings. 
-* [CAMBIO] Pressing Done when editing a file name now sets the file's contents as the first responder.
-* [SOLUCIÓN] Resolved issue where paywalls would cause Dropbox to erroneously report successful operations.
-* [SOLUCIÓN] Resolved issue where you could show the action sheet multiple times. 
+* [NUEVO] Se ha añadido compatibilidad para establecer la extensión predeterminada de nuevos archivos.
+* [NUEVO] Se ha añadido compatibilidad para utilizar TextExpander en el campo del nombre del archivo. 
+* [NUEVO] Se ha añadido compatibilidad para obtener el recuento de palabras en una cadena de texto seleccionada.
+* [NUEVO] Se ha añadido capacidad para ordenar de forma ascendente o descendente.
+* [CAMBIO] Se han transferido las opciones de ordenación a configuración. 
+* [CAMBIO] Ahora al pulsar Hecho durante la edición de un nombre de archivo se establece el contenido del archivo como primera respuesta.
+* [SOLUCIÓN] Se ha resuelto el problema que causaba que Dropbox informara erróneamente de operaciones realizadas correctamente debido a la barrera de pago (paywall).
+* [SOLUCIÓN] Se ha resuelto el problema que causaba que la hoja de acciones pudiera mostrarse en instancias múltiples. 
 
 Si le gusta Elements, no olvide valorar cada nueva versión con 5 estrellas en el App Store.  Las altas reseñas de nuestros clientes garantizan las actualizaciones futuras de las aplicaciones y permiten que nuestros nuevos clientes descubran la cantidad de personas que disfrutan de Elements.
 
