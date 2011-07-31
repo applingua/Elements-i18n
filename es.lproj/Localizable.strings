@@ -410,6 +410,9 @@
 "Signing In To Tumblr..." = "Signing In To Tumblr...";
 
 /* No comment provided by engineer. */
+"Sort By" = "Ordenar por";
+
+/* No comment provided by engineer. */
 "Signing In To Wordpress..." = "Signing In To Wordpress...";
 
 /* No comment provided by engineer. */
@@ -480,6 +483,9 @@
 
 /* No comment provided by engineer. */
 "We were unable to login to your Tumblr account. Please check your username and password." = "We were unable to login to your Tumblr account. Please check your username and password.";
+
+/* No comment provided by engineer. */
+"View" = "Visualización";
 
 /* No comment provided by engineer. */
 "Web" = "Web";

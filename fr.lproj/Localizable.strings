@@ -1,4 +1,4 @@
-/* No comment provided by engineer. */
+﻿/* No comment provided by engineer. */
 "A file exists with that name already." = "Un fichier avec ce nom existe déjà.";
 
 /* No comment provided by engineer. */
@@ -410,6 +410,9 @@
 "Signing In To Tumblr..." = "Signing In To Tumblr...";
 
 /* No comment provided by engineer. */
+"Sort By" = "Trier Par";
+
+/* No comment provided by engineer. */
 "Signing In To Wordpress..." = "Signing In To Wordpress...";
 
 /* No comment provided by engineer. */
@@ -455,6 +458,9 @@
 "Tumblr Sign In" = "Tumblr Sign In";
 
 /* No comment provided by engineer. */
+"The scratchpad is a great place to jot down quick ideas, store paragraphs you want to get out of the way, or just make a note for yourself later on." = "Le bloc note est un endroit idéal pour écrire de nouvelles idées rapidement, stocker des paragraphes qui gênent ou pour faire une note pour plus tard.";
+
+/* No comment provided by engineer. */
 "Twitter" = "Twitter";
 
 /* No comment provided by engineer. */
@@ -480,6 +486,12 @@
 
 /* No comment provided by engineer. */
 "We were unable to login to your Tumblr account. Please check your username and password." = "We were unable to login to your Tumblr account. Please check your username and password.";
+
+/* No comment provided by engineer. */
+"Untitled %ld.%@" = "Sans titre %ld.%@";
+
+/* No comment provided by engineer. */
+"View" = "Présentation";
 
 /* No comment provided by engineer. */
 "Web" = "Web";
