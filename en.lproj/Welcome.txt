@@ -1,8 +1,8 @@
 Hi
 
-Thank you for downloading Elements! 
+Thank you for downloading Elements 2!  
 
-Elements is a new Dropbox-powered text editor from Second Gear.  Elements allows you to view, edit and share plain text documents on your iPad, iPhone or iPod touch.  All of your data is stored on your personal Dropbox account.  
+Elements is a Markdown and Dropbox powered text editor from Second Gear.  Elements allows you to view, edit and share plain text documents on your iPad, iPhone or iPod touch.  All of your data is stored on your personal Dropbox account.  
 
 ## Where do files go?
 
@@ -14,16 +14,20 @@ Any time you edit one of the text files in 'Elements' or on your Mac or PC, the 
 
 Elements includes just enough to support your writing without getting in your way:
 
-* Create new files.
-* Autosaving every sixty seconds (Network connection required).
+* Create and edit files.
+* Preview your work using Markdown.
+* Publishing your work to a variety of services like Tumblr, Facebook and Evernote.
+* Exporting to multiple file formats such as PDF and HTML.
+* Autosaving.
 * Word, character and line counts.
 * A scratchpad for you to jot down notes and ideas as you're writing.  
 * TextExpander touch support.  
 * Email your files as attachments.  
+* Email the contents of your files as HTML.
 
 ## Support & Feedback
 
-If you have any questions about how to use Dropbox, want to suggest a new feature or just want to say hi, send us an email. 
+If you have any questions about how to use Elements, want to suggest a new feature or just want to say hi, send us an email. 
 
 Second Gear Feedback Line: support@secondgearsoftware.com
 
