@@ -1,10 +1,17 @@
 ﻿★★★ELU EDITEUR DE TEXTE DE L'ANNEE PAR MACWORLD ET UNE DES MEILLEURES APPLIS IPAD PAR GIZMODO★★★
 
-Elements est un superbe et souple éditeur de texte pour iOS. Elements vous permet de consulter, éditer et partager des textes simples sur votre iPad, iPhone et iPod touch. Toutes vos données sont stockées dans votre compte Dropbox personnel et sont ainsi disponibles depuis tous vos appareils.  
+#############################
+What Is Elements?
+#############################
+
+Elements is a dedicated Markdown and Dropbox powered text editor for iOS.  Elements allows you to view, edit and share plain text documents on your iPad, iPhone or iPod touch.  All of your data is stored in a folder on your personal Dropbox account so that it's accessible from any device you have.
 
 Que vous soyez un journaliste free lance qui veut écrire son prochain article, une étudiante qui doit faire un dossier de lecture ou un professionnel mobile qui a besoin d'avoir accès à ses notes de n'importe où, Elements peut vous aider à travailler.
 
-FONCTIONNALITÉS
+#############################
+Features
+#############################
+
 - Créer, lire et éditer des fichiers textes sur votre iPhone, iPad ou iPod touch
 - Dans le cloud: Elements conserve toutes les données dans un dossier Elements de votre Dropbox personnelle pour que vous puissiez y accéder depuis votre iPhone, Mac ou PC.
 - Sauvegarde automatique
@@ -12,6 +19,8 @@ FONCTIONNALITÉS
 - Ouvrir, editer et voir des fichiers Markdown
 - Prévisualiser des documents Markdown
 - Mode non connecté: ajoutez vos modifications à Dropbox la prochaine fois que vous vous connectez
+- Publishing: Publish your finished works to Facebook or Tumblr (More services coming soon!)
+- Export: Export your files as HTML or PDF files to Dropbox, Evernote, iTunes or Email
 - Recherche plein texte dans tous vos textes Elements
 - Compte des mots, des lignes et des caractères
 - Un bloc note pour gribouiller vos idées et stocker des infos aléatoires
@@ -21,7 +30,9 @@ FONCTIONNALITÉS
 - Support de TextExpander touch
 - Support par email gratuit
 
-CE QUE LES AUTRES EN DISENT
+#############################
+Reviews
+#############################
 
 "Ca marche comme par magie. Bonne idée" - John Gruber, Daring Fireball
 
@@ -35,13 +46,17 @@ CE QUE LES AUTRES EN DISENT
 
 "C'est une super appli." — MacStories.net
 
-CONFIGURATION
+#############################
+Requirements
+#############################
 
-- iPhone ou iPod touch avec iOS 4
-- iPad avec iOS 3.2
+- iPhone ou iPod touch avec iOS 4.3
+- iPad avec iOS 4.3
 - Compte Dropbox (souscription disponible dans l'appli)
 
-SUPPORT
+#############################
+Support
+#############################
 
 Veuillez s'il vous plait éviter d'envoyer vos rapports de bug ou vos demandes de fonctionnalités supplémentaires à travers l'AppStore. A la place, pour obtenir une réponse directe de notre part, envoyez les à support@secondgearsoftware.com. Ou envoyez nous un tweet à http://twitter.com/secondgear ou Aimez-Nous sur Facebook http://www.facebook.com/secondgearsoftware. Nous sommes toujours heureux d'aider nos utilisateurs et de répondre à leurs commentaires!
 
@@ -51,14 +66,23 @@ Merci!
 
 Merci pour votre soutien à Elements! Nous avons travaillé dur dans le garage de Second Gear pour faire une nouvelle version qui intègre plein de nouvelles fonctions aux nouvelles fonctions que vous avez demandées.
 
-* [NOUVEAU] Ajout du support de paramétrage d'extension par défaut pour les nouveaux fichiers.
-* [NOUVEAU] Ajout du support d'utilisation de TextExpander dans le champ nom. 
-* [NOUVEAU] Ajout du support du comptage de mots dans une chaine de texte sélectionnée.
-* [NOUVEAU] Ajout de la capacité à trier par ordre croissant ou décroissant.
-* [CHANGEMENT] Déplacement de trier vers paramètres. 
-* [CHANGEMENT] Cliquer sur Terminé pendant l'édition d'un nom de fichier configure maintenant le contenu du fichier comme le premier répondant.
-* [RESOLU] Solutionné le problème qui faisait que paywalls provoquait un rapport d'opérations exécutées par Dropbox avec succès de manière erronnée.
-* [RESOLU] Solutionné le problème qui faisait qu'il était possible d'afficher la feuille d'action plusieurs fois. 
+* [NEW] Added support for publishing to Tumblr.
+* [NEW] Added support for publishing to Facebook.
+* [NEW] Added support for exporting your files as HTML.
+* [NEW] Added support for exporting your files as PDF.
+* [NEW] Added support for exporting to Dropbox.
+* [NEW] Added support for exporting to Evernote.
+* [NEW] Added support for exporting to iTunes.
+* [NEW] Added support for exporting to Email.
+* [NEW] Added support for emailing a file's contents as HTML.
+* [NEW] New app icon.
+* [NEW] Redesigned iPhone and iPad UIs.
+* [CHANGE] Changed the default editor font to Museo Sans.
+* [CHANGE] Moved appearance settings into the editor.
+* [CHANGE] Redesigned the Markdown preview view.
+* [CHANGE] Removed background color setting for text editor .
+* [CHANGE] Elements 2 now requires iOS 4.
+* [FIX] A variety of small fixes and tweaks to improve the overall Elements experience.
 
 Si vous appréciez Elements, n'oubliez pas de rajouter 5 étoiles à la note de l'appli sur l'App Store. Les applis les mieux notéees par nos utilisateurs nous permettent de faire des mises à jour et permettent aux autres utilisateurs de découvrir l'appli.
 
