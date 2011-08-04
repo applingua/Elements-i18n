@@ -2,7 +2,7 @@ Hallo!
 
 Vielen Dank, dass Sie Elements 2 installiert haben! 
 
-Elements is a Markdown and Dropbox powered text editor from Second Gear. Elements ermöglicht es Ihnen, unformatierte Textdokumente mit Ihrem iPad, iPhone oder iPod touch anzusehen, zu bearbeiten oder gemeinsam zu nutzen. Ihre Dokumente werden dabei auf Ihrer Dropbox gesichert.
+Elements ist ein von Markdown und Dropbox gesteuertes Texbearbeitungsprogramm von Second Gear. Elements ermöglicht es Ihnen, unformatierte Textdokumente mit Ihrem iPad, iPhone oder iPod touch anzusehen, zu bearbeiten oder gemeinsam zu nutzen. Ihre Dokumente werden dabei auf Ihrer Dropbox gesichert.
 
 ## Wo werden die Dokumente abgelegt?
 
@@ -14,16 +14,16 @@ Jedes Mal, wenn Sie ein Dokument mit Elements oder auf Ihrem Mac, bzw. PC bearbe
 
 Elements hat genau die Funktionen, die Sie für ungestörte Textverarbeitung benötigen:
 
-* Create and edit files.
-* Preview your work using Markdown.
-* Publishing your work to a variety of services like Tumblr, Facebook and Evernote.
-* Exporting to multiple file formats such as PDF and HTML.
-* Autosaving.
-* Wörter, Buchstaben und Zeilen werden gezählt.
-* Ein Notizbuch, zum Aufschreiben Ihrer Ideen zwischendurch.
-* Unterstützung für TextExpander touch.
-* Verschicken Ihrer Dokumente als Mailanhang.
-* Email the contents of your files as HTML.
+* Dateien erstellen und bearbeiten
+* Vorschau mit Markdown
+* Veröffentlichen Ihrer Arbeit mit einer Anzahl an Diensten wie Tumblr, Facebook und Evernote
+* Exportieren in zahlreiche Dateiformate wie PDF und HTML
+* Automatisches Speichern
+* Zählen von Wörtern, Buchstaben und Zeilen
+* Ein Notizbuch, zum Aufschreiben Ihrer Ideen zwischendurch
+* Unterstützung für TextExpander touch
+* Verschicken Ihrer Dokumente als Mailanhang
+* E-Mailen des Inhalts Ihrer Daten in HTML
 
 ## Unterstützung & Feedback
 
