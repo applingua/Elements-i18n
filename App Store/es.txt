@@ -1,12 +1,12 @@
-★ ★ ★ VOTADO EDITOR DE TEXTO DEL AÑO POR MACWORLD Y UNA DE LAS MEJORES APLICACIONES IPAD POR GIZMODO ★ ★ ★
+﻿★ ★ ★ VOTADO EDITOR DE TEXTO DEL AÑO POR MACWORLD Y UNA DE LAS MEJORES APLICACIONES IPAD POR GIZMODO ★ ★ ★
 
 #############################
-WHAT IS ELEMENTS?
+¿QUÉ ES ELEMENTS?
 #############################
 
-Elements is a dedicated Markdown and Dropbox powered text editor for iOS.  Elements allows you to view, edit and share plain text documents on your iPad, iPhone or iPod touch.  All of your data is stored in a folder on your personal Dropbox account so that it's accessible from any device you have.
+Elements es un editor de texto dedicado desarrollado por Markdown y Dropbox para iOS.  Elements permite ver, editar y compartir documentos de texto sin formato a través del iPad, iPhone o iPod touch.  Todos sus datos son almacenados en una carpeta de su cuenta personal de Dropbox, de modo que es accesible desde cualquiera de sus dispositivos.
 
-Tanto si usted es un escritor independiente que desea componer su próximo artículo, un estudiante que debe redactar una reseña sobre un libro, o un profesional en movimiento que necesita acceso a sus notas desde cualquier lugar, Elements puede serle útil.  
+Tanto si usted es un escritor independiente que des a componer su próximo artículo, un estudiante que debe redactar una reseña sobre un libro, o un profesional en movimiento que necesita acceso a sus notas desde cualquier lugar, Elements puede serle útil.  
 
 #############################
 CARACTERÍSTICAS
@@ -16,8 +16,8 @@ CARACTERÍSTICAS
 - Computación en nube: Elements almacena todos sus datos en la subcarpeta /Elements de su cuenta personal de Dropbox, para que pueda acceder a ella a través de su iPhone, iPad, Mac o PC
 - Guardado automático 
 - Organización de archivos en subcarpetas
-- Publishing: Publish your finished works to Facebook or Tumblr (More services coming soon!)
-- Export: Export your files as HTML or PDF files to Dropbox, Evernote, iTunes or Email
+- Publicación: Publique sus trabajos acabados en Facebook o Tumblr (¡Más servicios disponibles próximamente!)
+- Exportación: Exporte sus archivos como archivos HTML o PDF a Dropbox, Evernote, iTunes o correo electrónico
 - Creación y edición de formatos de archivo Markdown
 - Vista previa de documentos con formato Markdown
 - Modo sin conexión: suba los cambios a Dropbox en la próxima conexión
@@ -31,7 +31,7 @@ CARACTERÍSTICAS
 - Asistencia al cliente gratuita por correo electrónico
 
 #############################
-REVIEWS
+RESEÑAS
 #############################
 
 «Funciona de forma fantástica. Es una gran idea» - John Gruber, de Daring Fireball
@@ -42,7 +42,7 @@ REVIEWS
 
 «Un editor de texto para escritores, con una sincronización perfecta mediante Dropbox» - Cult of Mac
 
-«Una aplicación imprecindible para los escritores que utilizan el iPad» - Dennis Sellers, de Macsimum News
+«Una aplicación imprescindible para los escritores que utilizan el iPad» - Dennis Sellers, de Macsimum News
 
 «Es una gran aplicación» - MacStories.net
 
@@ -67,23 +67,23 @@ Le rogamos se abstenga de enviar informes de error o peticiones de nuevas funcio
 
 ¡Gracias por apoyar a Elements! Hemos estado trabajando con empeño en el taller de Second Gear para conseguir una nueva versión equipada con muchas de las características solicitadas por nuestros clientes.
 
-* [NEW] Added support for publishing to Tumblr.
-* [NEW] Added support for publishing to Facebook.
-* [NEW] Added support for exporting your files as HTML.
-* [NEW] Added support for exporting your files as PDF.
-* [NEW] Added support for exporting to Dropbox.
-* [NEW] Added support for exporting to Evernote.
-* [NEW] Added support for exporting to iTunes.
-* [NEW] Added support for exporting to Email.
-* [NEW] Added support for emailing a file's contents as HTML.
-* [NEW] New app icon.
-* [NEW] Redesigned iPhone and iPad UIs.
-* [CHANGE] Changed the default editor font to Museo Sans.
-* [CHANGE] Moved appearance settings into the editor.
-* [CHANGE] Redesigned the Markdown preview view.
-* [CHANGE] Removed background color setting for text editor .
-* [CHANGE] Elements 2 now requires iOS 4.
-* [FIX] A variety of small fixes and tweaks to improve the overall Elements experience.
+* [NUEVO] Se ha agregado compatibilidad para publicar en Tumblr.
+* [NUEVO] Se ha agregado compatibilidad para publicar en Facebook.
+* [NUEVO] Se ha agregado compatibilidad para exportar sus archivos como HTML.
+* [NUEVO] Se ha agregado compatibilidad para exportar sus archivos como PDF.
+* [NUEVO] Se ha agregado compatibilidad para exportar a Dropbox.
+* [NUEVO] Se ha agregado compatibilidad para exportar a Evernote.
+* [NUEVO] Se ha agregado compatibilidad para exportar a iTunes.
+* [NUEVO] Se ha agregado compatibilidad para exportar a correo electrónico.
+* [NUEVO] Se ha agregado compatibilidad para enviar los contenidos de un archivo por correo electrónico como HTML.
+* [NUEVO] Nuevo icono de aplicación.
+* [NUEVO] Interfaces de usuario de iPhone y iPad rediseñadas.
+* [CAMBIO] Se ha cambiado la fuente predeterminada del editor a Museo Sans.
+* [CAMBIO] Se ha movido la configuración de la apariencia en el editor.
+* [CAMBIO] Se ha rediseñado la vista previa en Markdown.
+* [CAMBIO] Se ha eliminado la configuración de color de fondo del editor de texto.
+* [CAMBIO] Ahora se necesita iOS 4 para Elements 2.
+* [SOLUCIÓN] Se han realizado una serie de pequeñas reparaciones y arreglos para mejorar la experiencia general con Elements.
 
 Si le gusta Elements, no olvide valorar cada nueva versión con 5 estrellas en el App Store.  Las altas reseñas de nuestros clientes garantizan las actualizaciones futuras de las aplicaciones y permiten que nuestros nuevos clientes descubran la cantidad de personas que disfrutan de Elements.
 
