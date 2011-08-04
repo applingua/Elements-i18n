@@ -8,13 +8,13 @@
 "About Elements" = "Acerca de Elements";
 
 /* No comment provided by engineer. */
-"Accounts" = "Accounts";
+"Accounts" = "Cuentas";
 
 /* No comment provided by engineer. */
-"Add Account" = "Add Account";
+"Add Account" = "Agregar cuenta";
 
 /* No comment provided by engineer. */
-"Add Account..." = "Add Account...";
+"Add Account..." = "Agregar cuenta…";
 
 /* No comment provided by engineer. */
 "add file" = "añadir archivo";
@@ -23,13 +23,13 @@
 "add folder" = "añadir carpeta";
 
 /* No comment provided by engineer. */
-"An unknown error occurred" = "An unknown error occurred";
+"An unknown error occurred" = "Ha ocurrido un error desconocido";
 
 /* No comment provided by engineer. */
-"appearance" = "appearance";
+"appearance" = "apariencia";
 
 /* No comment provided by engineer. */
-"Appearance" = "Appearance";
+"Appearance" = "Apariencia";
 
 /* No comment provided by engineer. */
 "Are you sure you want to clear your scratchpad?" = "¿Está seguro de que desea limpiar el bloc de notas?";
@@ -41,7 +41,7 @@
 "As Attachment" = "Como archivo adjunto";
 
 /* No comment provided by engineer. */
-"As HTML Email" = "As HTML Email";
+"As HTML Email" = "Como correo HTML";
 
 /* No comment provided by engineer. */
 "Authorization Failed" = "La autorización ha fallado";
@@ -74,7 +74,7 @@
 "Contact Us" = "Contacte con nosotros";
 
 /* No comment provided by engineer. */
-"Could not sign in to Tumblr. Please check your email and password." = "Could not sign in to Tumblr. Please check your email and password.";
+"Could not sign in to Tumblr. Please check your email and password." = "No ha sido posible acceder a Tumblr. Verifique su correo electrónico y contraseña.";
 
 /* No comment provided by engineer. */
 "Couldn't Delete File" = "No ha sido posible eliminar el archivo";
@@ -83,7 +83,7 @@
 "Create A Dropbox Account" = "Crear una cuenta de Dropbox";
 
 /* No comment provided by engineer. */
-"Creating /Elements folder" = "Creating /Elements folder";
+"Creating /Elements folder" = "Creación de su carpeta de elementos";
 
 /* No comment provided by engineer. */
 "Creating Your Dropbox Account" = "Creación de su cuenta de Dropbox";
@@ -113,7 +113,7 @@
 "Dropbox account" = "Cuenta de Dropbox";
 
 /* No comment provided by engineer. */
-"Dropbox Sync" = "Dropbox Sync";
+"Dropbox Sync" = "Sincronización con Dropbox";
 
 /* No comment provided by engineer. */
 "Edit" = "Editar";
@@ -155,7 +155,7 @@
 "Error Creating Local Folder" = "Error al crear la carpeta local";
 
 /* No comment provided by engineer. */
-"Error Logging In" = "Error Logging In";
+"Error Logging In" = "Error de acceso";
 
 /* No comment provided by engineer. */
 "Error Opening File" = "Error al abrir el archivo";
@@ -170,19 +170,19 @@
 "Evernote" = "Evernote";
 
 /* No comment provided by engineer. */
-"Evernote Sign In" = "Evernote Sign In";
+"Evernote Sign In" = "Registrarse en Evernote";
 
 /* No comment provided by engineer. */
-"Export" = "Export";
+"Export" = "Exportar";
 
 /* No comment provided by engineer. */
-"Exported to iTunes" = "Exported to iTunes";
+"Exported to iTunes" = "Exportar de iTunes";
 
 /* No comment provided by engineer. */
-"Exporting To Dropbox" = "Exporting To Dropbox";
+"Exporting To Dropbox" = "Exportando a Dropbox";
 
 /* No comment provided by engineer. */
-"Exporting to Evernote..." = "Exporting to Evernote...";
+"Exporting to Evernote..." = "Exportando a Evernote…";
 
 /* No comment provided by engineer. */
 "Facebook" = "Facebook";
@@ -215,7 +215,7 @@
 "How do you want to email this file?" = "¿Cómo desea enviar este archivo?";
 
 /* No comment provided by engineer. */
-"HTML File" = "HTML File";
+"HTML File" = "Archivo HTML";
 
 /* No comment provided by engineer. */
 "http://example.com" = "http://example.com";
@@ -224,7 +224,7 @@
 "Inline" = "En línea";
 
 /* No comment provided by engineer. */
-"Its notebook is not yours." = "Its notebook is not yours.";
+"Its notebook is not yours." = "No tiene permiso para acceder a ese bloc de notas.";
 
 /* No comment provided by engineer. */
 "iTunes" = "iTunes";
@@ -251,10 +251,10 @@
 "Loading..." = "Cargando…";
 
 /* No comment provided by engineer. */
-"Login Failed" = "Login Failed";
+"Login Failed" = "El login ha fallado";
 
 /* No comment provided by engineer. */
-"Login failed because of an error communicating with the Evernote servers.  Please try again later." = "Login failed because of an error communicating with the Evernote servers.  Please try again later.";
+"Login failed because of an error communicating with the Evernote servers.  Please try again later." = "Login fallido debido a un error de comunicación con los servidores de Evernote. Inténtelo de nuevo más tarde.";
 
 /* No comment provided by engineer. */
 "Logout" = "Cerrar sesión";
@@ -293,13 +293,13 @@
 "No Internet Connection Detected." = "No se ha detectado la conexión a Internet.";
 
 /* No comment provided by engineer. */
-"Notebooks" = "Notebooks";
+"Notebooks" = "Blocs de notas";
 
 /* No comment provided by engineer. */
 "OK" = "Aceptar";
 
 /* No comment provided by engineer. */
-"Operation would exceed monthly upload allowance." = "Operation would exceed monthly upload allowance.";
+"Operation would exceed monthly upload allowance." = "Esta operación superaría la cuota de carga mensual.";
 
 /* No comment provided by engineer. */
 "Our Other Apps" = "Nuestras otras aplicaciones";
@@ -308,22 +308,22 @@
 "Password" = "Contraseña";
 
 /* No comment provided by engineer. */
-"PDF File" = "PDF File";
+"PDF File" = "Archivo PDF";
 
 /* No comment provided by engineer. */
-"Posting To Facebook..." = "Posting To Facebook...";
+"Posting To Facebook..." = "Enviando a Facebook…";
 
 /* No comment provided by engineer. */
-"Posting To Tumblr..." = "Posting To Tumblr...";
+"Posting To Tumblr..." = "Enviando a Tumblr…";
 
 /* No comment provided by engineer. */
 "Print" = "Imprimir";
 
 /* No comment provided by engineer. */
-"Publish" = "Publish";
+"Publish" = "Publicar";
 
 /* No comment provided by engineer. */
-"Published!" = "Published!";
+"Published!" = "¡Publicado!";
 
 /* No comment provided by engineer. */
 "Receive infrequent updates on Elements updates and other Second Gear apps. You can unsubscribe at anytime." = "Recibir actualizaciones ocasionales acerca de Elements y del resto de las aplicaciones de Second Gear. Puede darse de baja en cualquier momento.";
@@ -368,7 +368,7 @@
 "Send Feedback" = "Enviar comentarios";
 
 /* No comment provided by engineer. */
-"Send To" = "Send To";
+"Send To" = "Enviar a";
 
 /* No comment provided by engineer. */
 "settings" = "configuración";
@@ -377,7 +377,7 @@
 "Settings" = "Configuración";
 
 /* No comment provided by engineer. */
-"SGHTTPOperation Error" = "SGHTTPOperation Error";
+"SGHTTPOperation Error" = "Error de operación SGHTTP";
 
 /* No comment provided by engineer. */
 "Shareables" = "Compartibles";
@@ -404,16 +404,13 @@
 "Signing In To Dropbox" = "Inicio de sesión en Dropbox";
 
 /* No comment provided by engineer. */
-"Signing In To Evernote..." = "Signing In To Evernote...";
+"Signing In To Evernote..." = "Inicio de sesión en Evernote…";
 
 /* No comment provided by engineer. */
-"Signing In To Tumblr..." = "Signing In To Tumblr...";
+"Signing In To Tumblr..." = "Inicio de sesión en Tumblr…";
 
 /* No comment provided by engineer. */
-"Sort By" = "Ordenar por";
-
-/* No comment provided by engineer. */
-"Signing In To Wordpress..." = "Signing In To Wordpress...";
+"Signing In To Wordpress..." = "Inicio de sesión en Wordpress…";
 
 /* No comment provided by engineer. */
 "Signup Failed" = "El registro ha fallado";
@@ -440,22 +437,22 @@
 "Thanks" = "Gracias";
 
 /* No comment provided by engineer. */
-"The content is invalid." = "The content is invalid.";
+"The content is invalid." = "El contenido es inválido";
 
 /* No comment provided by engineer. */
 "The scratchpad is a great place to jot down quick ideas, store paragraphs you want to get out of the way, or just make a note for yourself later on." = "El bloc de notas es un gran lugar para anotar ideas, guardar párrafos que desea eliminar del texto, o simplemente anotar conceptos para otro momento.";
 
 /* No comment provided by engineer. */
-"Too many notes." = "Too many notes.";
+"Too many notes." = "Demasiadas notas";
 
 /* No comment provided by engineer. */
 "Tumblr" = "Tumblr";
 
 /* No comment provided by engineer. */
-"Tumblr Error" = "Tumblr Error";
+"Tumblr Error" = "Error en Tumblr";
 
 /* No comment provided by engineer. */
-"Tumblr Sign In" = "Tumblr Sign In";
+"Tumblr Sign In" = "Registrarse en Tumblr";
 
 /* No comment provided by engineer. */
 "Twitter" = "Twitter";
@@ -473,19 +470,16 @@
 "URL" = "URL";
 
 /* No comment provided by engineer. */
-"Username" = "Username";
+"Username" = "Nombre de usuario";
 
 /* No comment provided by engineer. */
 "View" = "Visualización";
 
 /* No comment provided by engineer. */
-"We were unable to login to your Evernote account. Please check your username and password." = "We were unable to login to your Evernote account. Please check your username and password.";
+"We were unable to login to your Evernote account. Please check your username and password." = "No se pudo crear acceso a su cuenta de Evernote. Verifique su nombre de usuario y contraseña.";
 
 /* No comment provided by engineer. */
-"We were unable to login to your Tumblr account. Please check your username and password." = "We were unable to login to your Tumblr account. Please check your username and password.";
-
-/* No comment provided by engineer. */
-"View" = "Visualización";
+"We were unable to login to your Tumblr account. Please check your username and password." = "No se pudo crear acceso a su cuenta de Tumblr. Verifique su nombre de usuario y contraseña.";
 
 /* No comment provided by engineer. */
 "Web" = "Web";
@@ -500,7 +494,7 @@
 "Word Count" = "Recuento de palabras";
 
 /* No comment provided by engineer. */
-"Wordpress Sign In" = "Wordpress Sign In";
+"Wordpress Sign In" = "Registrarse en Wordpress";
 
 /* No comment provided by engineer. */
 "Words (%d)" = "Palabras (%d)";

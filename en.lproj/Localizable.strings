@@ -224,7 +224,7 @@
 "Inline" = "Inline";
 
 /* No comment provided by engineer. */
-"Its notebook is not yours." = "Its notebook is not yours.";
+"Its notebook is not yours." = "You don't have permission to access that notebook.";
 
 /* No comment provided by engineer. */
 "iTunes" = "iTunes";

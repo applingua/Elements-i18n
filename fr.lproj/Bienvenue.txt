@@ -2,23 +2,23 @@ Bonjour,
 
 Merci d'avoir acheté Elements 2! 
 
-When you first log in, Elements creates a new folder called "Elements" in your Dropbox. Elements vous permet de consulter, éditer et partager des textes simples sur votre iPad, iPhone et iPod touch.  Toutes vos données sont stockées dans votre compte Dropbox personnel.  
+Elements est un éditeur de texte de Second Gear basé sur Markdown et Dropbox. Elements vous permet de consulter, éditer et partager des textes simples sur votre iPad, iPhone et iPod touch.  Toutes vos données sont stockées dans votre compte Dropbox personnel.  
 
 ## Où vont les fichiers?
 
 Quand vous vous connectez pour la première fois, Elements crèe un dossier nommé "Elements" dans votre Dropbox. Dans ce dossier Elements il y a un seul fichier nommé "Bienvenue.txt".  C'est le fichier que vous lisez en ce moment!  
 
-Chaque fois que vous éditez un fichier dans le dossier 'Elements' sur votre mac, votre PC, les changements sont poussés vers Dropbox et reviennent dans l'application Elements.  Attention: Dropbox n'est pas une véritable solution de synchronisation, et vous ne pouvez pas avoir plusieurs personnes travaillant en même temps sur un fichier. Par contre, si vous êtes du genre à écrire un peu sur votre Mac et emporter votre iPad avec vous au café, Elements est l'outil idéal.
+Chaque fois que vous éditez un fichier dans le dossier 'Elements' sur votre Mac, votre PC, les changements sont poussés vers Dropbox et reviennent dans l'application Elements.  Attention: Dropbox n'est pas une véritable solution de synchronisation, et vous ne pouvez pas avoir plusieurs personnes travaillant en même temps sur un fichier. Par contre, si vous êtes du genre à écrire un peu sur votre Mac et emporter votre iPad avec vous au café, Elements est l'outil idéal.
 
 ## Fonctionnalités
 
 Elements inclut juste ce qu'il faut pour vous permettre d'écrire sans vous gêner:
 
-* Create and edit files.
-* Preview your work using Markdown.
-* Publishing your work to a variety of services like Tumblr, Facebook and Evernote.
-* Exporting to multiple file formats such as PDF and HTML.
-* Autosaving.
+* Créer et éditer des fichiers.
+* Prévisualiser votre travail en utilisation Markdown.
+* Publier votre travail vers une multitude de services tels que Tumblr, Facebook et Evernote.
+* Exporter vers de multiples formats de fichiers comme PDF et HTML.
+* Sauvegarde automatique.
 * Compte des mots, lignes et caractères.
 * Un bloc note pour pouvoir noter des idées pendant que vous écrivez.  
 * Support de TextExpander touch.  
