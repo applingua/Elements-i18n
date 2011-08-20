@@ -67,23 +67,22 @@ Le rogamos se abstenga de enviar informes de error o peticiones de nuevas funcio
 
 ¡Gracias por apoyar a Elements! Hemos estado trabajando con empeño en el taller de Second Gear para conseguir una nueva versión equipada con muchas de las características solicitadas por nuestros clientes.
 
-* [NUEVO] Se ha agregado compatibilidad para publicar en Tumblr.
-* [NUEVO] Se ha agregado compatibilidad para publicar en Facebook.
-* [NUEVO] Se ha agregado compatibilidad para exportar sus archivos como HTML.
-* [NUEVO] Se ha agregado compatibilidad para exportar sus archivos como PDF.
-* [NUEVO] Se ha agregado compatibilidad para exportar a Dropbox.
-* [NUEVO] Se ha agregado compatibilidad para exportar a Evernote.
-* [NUEVO] Se ha agregado compatibilidad para exportar a iTunes.
-* [NUEVO] Se ha agregado compatibilidad para exportar a correo electrónico.
-* [NUEVO] Se ha agregado compatibilidad para enviar los contenidos de un archivo por correo electrónico como HTML.
-* [NUEVO] Nuevo icono de aplicación.
-* [NUEVO] Interfaces de usuario de iPhone y iPad rediseñadas.
-* [CAMBIO] Se ha cambiado la fuente predeterminada del editor a Museo Sans.
-* [CAMBIO] Se ha movido la configuración de la apariencia en el editor.
-* [CAMBIO] Se ha rediseñado la vista previa en Markdown.
-* [CAMBIO] Se ha eliminado la configuración de color de fondo del editor de texto.
-* [CAMBIO] Ahora se necesita iOS 4 para Elements 2.
-* [SOLUCIÓN] Se han realizado una serie de pequeñas reparaciones y arreglos para mejorar la experiencia general con Elements.
+* [NEW] Added support for changing the linked Dropbox folder.
+* [NEW] Added setting for iPad users to adjust the margins of the editor. iPhone users have default margins because of the smaller phone size. 
+* [NEW] Added bottom toolbar to the iPad editor.
+* [NEW] Added in-app documentation.
+* [NEW] Added a dark theme.
+* [CHANGE] Removed the text color setting.
+* [FIX] HTML Exporter now sets UTF-8 as its character set.
+* [FIX] Fixed Tumblr crash when users with private blogs tried to authenticate.
+* [FIX] Fixed another obscure crasher with Tumblr publishing.
+* [FIX] Fixed logging out to properly clear out cached versions of files.
+* [FIX] Fixed some button pressed states to not highlight in the file editor view.
+* [FIX] Fixed a variety of rotation issues with exporting and publishing.
+* [FIX] Fixed the background color of the appearance view controller.
+* [FIX] Fixed a rendering issue with the corners of grouped table views with custom background colors.
+* [FIX] Miscellaneous user interface improvements for certain users.
+* [FIX] Cleaned up the memory footprint of the app in various spots.
 
 Si le gusta Elements, no olvide valorar cada nueva versión con 5 estrellas en el App Store.  Las altas reseñas de nuestros clientes garantizan las actualizaciones futuras de las aplicaciones y permiten que nuestros nuevos clientes descubran la cantidad de personas que disfrutan de Elements.
 

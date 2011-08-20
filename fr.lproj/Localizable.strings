@@ -1,4 +1,4 @@
-﻿/* No comment provided by engineer. */
+/* No comment provided by engineer. */
 "A file exists with that name already." = "Un fichier avec ce nom existe déjà.";
 
 /* No comment provided by engineer. */
@@ -32,6 +32,9 @@
 "Appearance" = "Apparence";
 
 /* No comment provided by engineer. */
+"Are you sure you want to change the folder on Dropbox that Elements syncs to?" = "Are you sure you want to change the folder on Dropbox that Elements syncs to?";
+
+/* No comment provided by engineer. */
 "Are you sure you want to clear your scratchpad?" = "Etes vous sûr de vouloir effacer votre bloc notes?";
 
 /* No comment provided by engineer. */
@@ -51,6 +54,9 @@
 
 /* No comment provided by engineer. */
 "Cancel" = "Annuler";
+
+/* No comment provided by engineer. */
+"Change Dropbox Folder" = "Change Dropbox Folder";
 
 /* No comment provided by engineer. */
 "Character Count" = "Nombre de caractères";
@@ -83,6 +89,9 @@
 "Create A Dropbox Account" = "Créez un compte Dropbox";
 
 /* No comment provided by engineer. */
+"Create Folder Error" = "Create Folder Error";
+
+/* No comment provided by engineer. */
 "Creating /Elements folder" = "Création du répertoire /Elements";
 
 /* No comment provided by engineer. */
@@ -102,6 +111,9 @@
 
 /* No comment provided by engineer. */
 "document information" = "information document";
+
+/* No comment provided by engineer. */
+"Documentation" = "Documentation";
 
 /* No comment provided by engineer. */
 "Done" = "Fini";
@@ -126,6 +138,9 @@
 
 /* No comment provided by engineer. */
 "Elements creates an 'Elements' folder in your Dropbox to hold your data.  Drop any text file you want to edit on your device in there." = "Elements crée un dossier 'Elements' dans votre Dropbox pour sauver vos textes.  Déposez tous les textes que vous voulez éditer sur votre appareil dans ce dossier.";
+
+/* No comment provided by engineer. */
+"Elements stores your files your files on Dropbox in the /Elements folder by default. Do you want to select a different folder? " = "Elements stores your files your files on Dropbox in the /Elements folder by default. Do you want to select a different folder? ";
 
 /* No comment provided by engineer. */
 "Email" = "Email";
@@ -153,9 +168,6 @@
 
 /* No comment provided by engineer. */
 "Error Creating Local Folder" = "Erreur de création du dossier local";
-
-/* No comment provided by engineer. */
-"Error Logging In" = "Erreur de connexion";
 
 /* No comment provided by engineer. */
 "Error Opening File" = "Erreur d'ouverture";
@@ -218,13 +230,7 @@
 "HTML File" = "Fichier HTML";
 
 /* No comment provided by engineer. */
-"http://example.com" = "http://exemple.com";
-
-/* No comment provided by engineer. */
 "Inline" = "Comme contenu";
-
-/* No comment provided by engineer. */
-"Its notebook is not yours." = "Vous n'avez pas la permission d'accéder à ce bloc-note.";
 
 /* No comment provided by engineer. */
 "iTunes" = "iTunes";
@@ -260,7 +266,13 @@
 "Logout" = "Déconnexion";
 
 /* No comment provided by engineer. */
+"Margins" = "Margins";
+
+/* No comment provided by engineer. */
 "Markdown Preview" = "Prévisualisation Markdown";
+
+/* No comment provided by engineer. */
+"Medium" = "Medium";
 
 /* No comment provided by engineer. */
 "Metadata Refresh Error" = "Erreur de rafraichissement des métadonnées";
@@ -276,6 +288,9 @@
 
 /* No comment provided by engineer. */
 "Name ↓" = "Nom ↓";
+
+/* No comment provided by engineer. */
+"Narrow" = "Narrow";
 
 /* No comment provided by engineer. */
 "New Folder" = "Nouveau dossier";
@@ -318,6 +333,9 @@
 
 /* No comment provided by engineer. */
 "Print" = "Imprimer";
+
+/* No comment provided by engineer. */
+"Private Tumblelog" = "Private Tumblelog";
 
 /* No comment provided by engineer. */
 "Publish" = "Publier";
@@ -410,9 +428,6 @@
 "Signing In To Tumblr..." = "Connexion à Tumblr…";
 
 /* No comment provided by engineer. */
-"Signing In To Wordpress..." = "Connexion à Wordpress…";
-
-/* No comment provided by engineer. */
 "Signup Failed" = "La souscription a échoué";
 
 /* No comment provided by engineer. */
@@ -467,9 +482,6 @@
 "Untitled %ld.%@" = "Sans titre %ld.%@";
 
 /* No comment provided by engineer. */
-"URL" = "URL";
-
-/* No comment provided by engineer. */
 "Username" = "Nom d'utilisateur";
 
 /* No comment provided by engineer. */
@@ -488,19 +500,22 @@
 "Welcome" = "Bienvenue";
 
 /* No comment provided by engineer. */
-"Welcome.txt" = "Bienvenue.txt";
+"Wide" = "Wide";
 
 /* No comment provided by engineer. */
 "Word Count" = "Nombre de mots";
-
-/* No comment provided by engineer. */
-"Wordpress Sign In" = "Connexion Wordpress";
 
 /* No comment provided by engineer. */
 "Words (%d)" = "Mots (%d)";
 
 /* No comment provided by engineer. */
 "Would you like to register your copy of Elements?  Registering allows us to tell you about important Elements bug fixes, new features and other cool stuff being worked on in the Second Gear garage." = "Voulez vous enregistrer votre copie d'Elements? Cela nous permettra de vous avertir des mises à jour importantes, corrections de bugs graves, nouvelles fonctions, et des autres choses cool que SecondGear fait dans son garage.";
+
+/* No comment provided by engineer. */
+"Yes" = "Yes";
+
+/* No comment provided by engineer. */
+"You don't have permission to access that notebook." = "You don't have permission to access that notebook.";
 
 /* No comment provided by engineer. */
 "Your device is not allowed to send mail" = "Votre appareil ne peut pas envoyer de mail";

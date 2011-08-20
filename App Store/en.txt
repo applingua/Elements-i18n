@@ -64,23 +64,22 @@ Thank you!
 
 Thank you for supporting Elements! We've been hard at work in the Second Gear garage making a new version that adds many features of the features you've requested. 
 
-* [NEW] Added support for publishing to Tumblr.
-* [NEW] Added support for publishing to Facebook.
-* [NEW] Added support for exporting your files as HTML.
-* [NEW] Added support for exporting your files as PDF.
-* [NEW] Added support for exporting to Dropbox.
-* [NEW] Added support for exporting to Evernote.
-* [NEW] Added support for exporting to iTunes.
-* [NEW] Added support for exporting to Email.
-* [NEW] Added support for emailing a file's contents as HTML.
-* [NEW] New app icon.
-* [NEW] Redesigned iPhone and iPad UIs.
-* [CHANGE] Changed the default editor font to Museo Sans.
-* [CHANGE] Moved appearance settings into the editor.
-* [CHANGE] Redesigned the Markdown preview view.
-* [CHANGE] Removed background color setting for text editor .
-* [CHANGE] Elements 2 now requires iOS 4.
-* [FIX] A variety of small fixes and tweaks to improve the overall Elements experience.
+* [NEW] Added support for changing the linked Dropbox folder.
+* [NEW] Added setting for iPad users to adjust the margins of the editor. iPhone users have default margins because of the smaller phone size. 
+* [NEW] Added bottom toolbar to the iPad editor.
+* [NEW] Added in-app documentation.
+* [NEW] Added a dark theme.
+* [CHANGE] Removed the text color setting.
+* [FIX] HTML Exporter now sets UTF-8 as its character set.
+* [FIX] Fixed Tumblr crash when users with private blogs tried to authenticate.
+* [FIX] Fixed another obscure crasher with Tumblr publishing.
+* [FIX] Fixed logging out to properly clear out cached versions of files.
+* [FIX] Fixed some button pressed states to not highlight in the file editor view.
+* [FIX] Fixed a variety of rotation issues with exporting and publishing.
+* [FIX] Fixed the background color of the appearance view controller.
+* [FIX] Fixed a rendering issue with the corners of grouped table views with custom background colors.
+* [FIX] Miscellaneous user interface improvements for certain users.
+* [FIX] Cleaned up the memory footprint of the app in various spots.
 
 If you enjoy Elements, please be sure to rate each new version 5 stars on the App Store.  High reviews from our customers ensure future updates to apps and allow new customers to see how many people enjoy Elements.
 

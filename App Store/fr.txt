@@ -66,23 +66,22 @@ Merci!
 
 Merci pour votre soutien à Elements! Nous avons travaillé dur dans le garage de Second Gear pour faire une nouvelle version qui intègre plein de nouvelles fonctions aux nouvelles fonctions que vous avez demandées.
 
-* [NOUVEAU] Ajout du support de publication vers Tumblr.
-* [NOUVEAU] Ajout du support de publication vers Facebook.
-* [NOUVEAU] Ajout du support d'exportation de vos fichiers vers le format HTML.
-* [NOUVEAU] Ajout du support d'exportation de vos fichiers vers le format PDF.
-* [NOUVEAU] Ajout du support d'exportation vers Dropbox.
-* [NOUVEAU] Ajout du support d'exportation vers Evernote.
-* [NOUVEAU] Ajout du support d'exportation vers iTunes.
-* [NOUVEAU] Ajout du support d'exportation vers l'email.
-* [NOUVEAU] Ajout du support d'envoi par email d'un contenu de fichier en tant que HTML.
-* [NOUVEAU] Nouvelle icône d'appli.
-* [NOUVEAU] Redesign de l'interface utilisateur iPhone et iPad.
-* [CHANGEMENT] Changement de la police par défaut de l'éditeur en Museo Sans.
-* [CHANGEMENT] Déplacement des paramètres d'apparence vers l'éditeur.
-* [CHANGEMENT] Redesign de la vue de prévisualisation Markdown.
-* [CHANGEMENT] Enlèvement du paramètre de couleur de fond d'écran pour l'éditeur de texte.
-* [CHANGEMENT] Elements 2 nécessite désormais iOS 4.
-* [RESOLU] Correstion de plusieurs petits bugs pour améliorer globablement l'utilisation de Elements.
+* [NEW] Added support for changing the linked Dropbox folder.
+* [NEW] Added setting for iPad users to adjust the margins of the editor. iPhone users have default margins because of the smaller phone size. 
+* [NEW] Added bottom toolbar to the iPad editor.
+* [NEW] Added in-app documentation.
+* [NEW] Added a dark theme.
+* [CHANGE] Removed the text color setting.
+* [FIX] HTML Exporter now sets UTF-8 as its character set.
+* [FIX] Fixed Tumblr crash when users with private blogs tried to authenticate.
+* [FIX] Fixed another obscure crasher with Tumblr publishing.
+* [FIX] Fixed logging out to properly clear out cached versions of files.
+* [FIX] Fixed some button pressed states to not highlight in the file editor view.
+* [FIX] Fixed a variety of rotation issues with exporting and publishing.
+* [FIX] Fixed the background color of the appearance view controller.
+* [FIX] Fixed a rendering issue with the corners of grouped table views with custom background colors.
+* [FIX] Miscellaneous user interface improvements for certain users.
+* [FIX] Cleaned up the memory footprint of the app in various spots.
 
 Si vous appréciez Elements, n'oubliez pas de rajouter 5 étoiles à la note de l'appli sur l'App Store. Les applis les mieux notéees par nos utilisateurs nous permettent de faire des mises à jour et permettent aux autres utilisateurs de découvrir l'appli.
 
