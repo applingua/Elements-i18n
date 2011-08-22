@@ -455,7 +455,7 @@
 "The scratchpad is a great place to jot down quick ideas, store paragraphs you want to get out of the way, or just make a note for yourself later on." = "El bloc de notas es un gran lugar para anotar ideas, guardar párrafos que desea eliminar del texto, o simplemente anotar conceptos para otro momento.";
 
 /* No comment provided by engineer. */
-"Theme" = "Theme";
+"Theme" = "Tema";
 
 /* No comment provided by engineer. */
 "Too many notes." = "Demasiadas notas";
@@ -519,4 +519,3 @@
 
 /* No comment provided by engineer. */
 "Your device is not allowed to send mail" = "Su dispositivo no está autorizado para enviar correo";
-
