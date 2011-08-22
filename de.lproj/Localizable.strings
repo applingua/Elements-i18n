@@ -1,4 +1,4 @@
-﻿/* No comment provided by engineer. */
+/* No comment provided by engineer. */
 "A file exists with that name already." = "Ein Dokument mit diesem Namen existiert bereits.";
 
 /* No comment provided by engineer. */
@@ -140,7 +140,7 @@
 "Elements creates an 'Elements' folder in your Dropbox to hold your data.  Drop any text file you want to edit on your device in there." = "Elements erstellt einen Ordner mit dem Namen 'Elements' in Ihrer Dropbox. Legen Sie einfach die Dokumente, die Sie bearbeiten wollen, in diesen Ordner.";
 
 /* No comment provided by engineer. */
-"Elements stores your files your files on Dropbox in the /Elements folder by default. Do you want to select a different folder? " = "Elements speichert Ihre Daten standardmäßig in Dropbox in dem /Elements Ordner.";
+"Elements stores your files on Dropbox in the /Elements folder by default. Do you want to select a different folder? " = "Elements speichert Ihre Daten standardmäßig in Dropbox in dem /Elements Ordner.";
 
 /* No comment provided by engineer. */
 "Email" = "E-Mail";
@@ -440,9 +440,6 @@
 "Tap here to signup for Dropbox" = "Tippen Sie hier, um sich bei Dropbox anzumelden";
 
 /* No comment provided by engineer. */
-"Text Color" = "Schriftfarbe";
-
-/* No comment provided by engineer. */
 "Text Size" = "Schriftgröße";
 
 /* No comment provided by engineer. */
@@ -456,6 +453,9 @@
 
 /* No comment provided by engineer. */
 "The scratchpad is a great place to jot down quick ideas, store paragraphs you want to get out of the way, or just make a note for yourself later on." = "Im Notizblock können Sie einfach Ihre Ideen ablegen, Textblöcke zur Seite legen oder einfach nur einen Text eingeben, damit Sie ihn nicht vergessen.";
+
+/* No comment provided by engineer. */
+"Theme" = "Theme";
 
 /* No comment provided by engineer. */
 "Too many notes." = "Zu viele Notizen.";
@@ -519,3 +519,4 @@
 
 /* No comment provided by engineer. */
 "Your device is not allowed to send mail" = "Mit diesem Gerät können keine Mails versendet werden";
+

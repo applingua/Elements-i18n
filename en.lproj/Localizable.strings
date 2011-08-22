@@ -140,7 +140,7 @@
 "Elements creates an 'Elements' folder in your Dropbox to hold your data.  Drop any text file you want to edit on your device in there." = "Elements creates an 'Elements' folder in your Dropbox to hold your data.  Drop any text file you want to edit on your device in there.";
 
 /* No comment provided by engineer. */
-"Elements stores your files your files on Dropbox in the /Elements folder by default. Do you want to select a different folder? " = "Elements stores your files on Dropbox in the /Elements folder by default. Do you want to select a different folder? ";
+"Elements stores your files on Dropbox in the /Elements folder by default. Do you want to select a different folder? " = "Elements stores your files on Dropbox in the /Elements folder by default. Do you want to select a different folder? ";
 
 /* No comment provided by engineer. */
 "Email" = "Email";
@@ -440,9 +440,6 @@
 "Tap here to signup for Dropbox" = "Tap here to signup for Dropbox";
 
 /* No comment provided by engineer. */
-"Text Color" = "Text Color";
-
-/* No comment provided by engineer. */
 "Text Size" = "Text Size";
 
 /* No comment provided by engineer. */
@@ -456,6 +453,9 @@
 
 /* No comment provided by engineer. */
 "The scratchpad is a great place to jot down quick ideas, store paragraphs you want to get out of the way, or just make a note for yourself later on." = "The scratchpad is a great place to jot down quick ideas, store paragraphs you want to get out of the way, or just make a note for yourself later on.";
+
+/* No comment provided by engineer. */
+"Theme" = "Theme";
 
 /* No comment provided by engineer. */
 "Too many notes." = "Too many notes.";
@@ -519,3 +519,4 @@
 
 /* No comment provided by engineer. */
 "Your device is not allowed to send mail" = "Your device is not allowed to send mail";
+
