@@ -66,22 +66,22 @@ Merci!
 
 Merci pour votre soutien à Elements! Nous avons travaillé dur dans le garage de Second Gear pour faire une nouvelle version qui intègre plein de nouvelles fonctions aux nouvelles fonctions que vous avez demandées.
 
-* [NEW] Added support for changing the linked Dropbox folder.
-* [NEW] Added setting for iPad users to adjust the margins of the editor. iPhone users have default margins because of the smaller phone size. 
-* [NEW] Added bottom toolbar to the iPad editor.
-* [NEW] Added in-app documentation.
-* [NEW] Added a dark theme.
-* [CHANGE] Removed the text color setting.
-* [FIX] HTML Exporter now sets UTF-8 as its character set.
-* [FIX] Fixed Tumblr crash when users with private blogs tried to authenticate.
-* [FIX] Fixed another obscure crasher with Tumblr publishing.
-* [FIX] Fixed logging out to properly clear out cached versions of files.
-* [FIX] Fixed some button pressed states to not highlight in the file editor view.
-* [FIX] Fixed a variety of rotation issues with exporting and publishing.
-* [FIX] Fixed the background color of the appearance view controller.
-* [FIX] Fixed a rendering issue with the corners of grouped table views with custom background colors.
-* [FIX] Miscellaneous user interface improvements for certain users.
-* [FIX] Cleaned up the memory footprint of the app in various spots.
+* [NOUVEAU] Ajout du support de changement du répertoire Dropbox lié.
+* [NOUVEAU] Ajout de paramètre pour les utilisateurs d'iPad pour ajuster les marges de l'éditeur. Les utilisateurs iPhone ont des marges par défaut dues à la plus petite taille du téléphone. 
+* [NOUVEAU] Ajout de la barre d'outil du bas à l'éditeur iPad.
+* [NOUVEAU] Ajout de la documentation intégrée à l'appli.
+* [NOUVEAU] Ajout d'un thème sombre.
+* [CHANGEMENT] Enlèvement du paramètre de couleur de texte.
+* [RESOLU] L'exportateur HTML configure maintenant UTF-8 en tant que son jeu de caractères.
+* [RESOLU] Résolu le crash de Tumblr lorsque les utilisateurs ayant des blogs privés essayaient de s'authentifier.
+* [RESOLU] Résolu un autre crash obscur du publicateur Tumblr.
+* [RESOLU] Résolu la déconnexion avec un nettoyage correct des version de fichiers en cache.
+* [RESOLU] Résolu le fait que certains boutons pressés ne surlignent pas dans la vue éditeur de fichier.
+* [RESOLU] Résolu plusieurs problèmes de rotation à l'exportation et à la publication.
+* [RESOLU] Résolu la couleur de fond d'écran du contrôleur de vue d'apparence.
+* [RESOLU] Résolu un problème de rendu avec les coins de vues de tableaux groupés avec des couleurs de fond d'écran personnalisées.
+* [RESOLU] Diverses améliorations de l'interface utilisateur pour certains utilisateurs.
+* [RESOLU] Nettoyé les traces de l'application en mémoire en plusieurs endroits.
 
 Si vous appréciez Elements, n'oubliez pas de rajouter 5 étoiles à la note de l'appli sur l'App Store. Les applis les mieux notéees par nos utilisateurs nous permettent de faire des mises à jour et permettent aux autres utilisateurs de découvrir l'appli.
 

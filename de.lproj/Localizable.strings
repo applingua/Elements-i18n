@@ -1,4 +1,4 @@
-/* No comment provided by engineer. */
+﻿/* No comment provided by engineer. */
 "A file exists with that name already." = "Ein Dokument mit diesem Namen existiert bereits.";
 
 /* No comment provided by engineer. */
@@ -32,7 +32,7 @@
 "Appearance" = "Anzeige";
 
 /* No comment provided by engineer. */
-"Are you sure you want to change the folder on Dropbox that Elements syncs to?" = "Are you sure you want to change the folder on Dropbox that Elements syncs to?";
+"Are you sure you want to change the folder on Dropbox that Elements syncs to?" = "Sind Sie sicher, dass Sie den Dropbox-Ordner, mit dem Elements synchronisiert, ändern möchten?";
 
 /* No comment provided by engineer. */
 "Are you sure you want to clear your scratchpad?" = "Sind Sie sicher, dass Sie den Notizblock löschen wollen?";
@@ -56,7 +56,7 @@
 "Cancel" = "Abbrechen";
 
 /* No comment provided by engineer. */
-"Change Dropbox Folder" = "Change Dropbox Folder";
+"Change Dropbox Folder" = "Dropbox-Ordner ändern";
 
 /* No comment provided by engineer. */
 "Character Count" = "Buchstaben";
@@ -89,7 +89,7 @@
 "Create A Dropbox Account" = "Dropbox Account anlegen";
 
 /* No comment provided by engineer. */
-"Create Folder Error" = "Create Folder Error";
+"Create Folder Error" = "Fehler beim Erstellen des Ordners";
 
 /* No comment provided by engineer. */
 "Creating /Elements folder" = "/Elements Ordner wird erstellt";
@@ -113,7 +113,7 @@
 "document information" = "Informationen";
 
 /* No comment provided by engineer. */
-"Documentation" = "Documentation";
+"Documentation" = "Dokumentation";
 
 /* No comment provided by engineer. */
 "Done" = "Fertig";
@@ -140,7 +140,7 @@
 "Elements creates an 'Elements' folder in your Dropbox to hold your data.  Drop any text file you want to edit on your device in there." = "Elements erstellt einen Ordner mit dem Namen 'Elements' in Ihrer Dropbox. Legen Sie einfach die Dokumente, die Sie bearbeiten wollen, in diesen Ordner.";
 
 /* No comment provided by engineer. */
-"Elements stores your files your files on Dropbox in the /Elements folder by default. Do you want to select a different folder? " = "Elements stores your files your files on Dropbox in the /Elements folder by default. Do you want to select a different folder? ";
+"Elements stores your files your files on Dropbox in the /Elements folder by default. Do you want to select a different folder? " = "Elements speichert Ihre Daten standardmäßig in Dropbox in dem /Elements Ordner.";
 
 /* No comment provided by engineer. */
 "Email" = "E-Mail";
@@ -266,13 +266,13 @@
 "Logout" = "Abmelden";
 
 /* No comment provided by engineer. */
-"Margins" = "Margins";
+"Margins" = "Ränder";
 
 /* No comment provided by engineer. */
 "Markdown Preview" = "Markdown Voransicht";
 
 /* No comment provided by engineer. */
-"Medium" = "Medium";
+"Medium" = "Mittel";
 
 /* No comment provided by engineer. */
 "Metadata Refresh Error" = "Fehler beim Aktualisieren der Metadaten";
@@ -290,7 +290,7 @@
 "Name ↓" = "Name ↓";
 
 /* No comment provided by engineer. */
-"Narrow" = "Narrow";
+"Narrow" = "Schmal";
 
 /* No comment provided by engineer. */
 "New Folder" = "Neuer Ordner";
@@ -335,7 +335,7 @@
 "Print" = "Drucken";
 
 /* No comment provided by engineer. */
-"Private Tumblelog" = "Private Tumblelog";
+"Private Tumblelog" = "Privater Tumblelog";
 
 /* No comment provided by engineer. */
 "Publish" = "Veröffentlichen";
@@ -500,7 +500,7 @@
 "Welcome" = "Willkommen";
 
 /* No comment provided by engineer. */
-"Wide" = "Wide";
+"Wide" = "Breit";
 
 /* No comment provided by engineer. */
 "Word Count" = "Wörter";
@@ -512,10 +512,10 @@
 "Would you like to register your copy of Elements?  Registering allows us to tell you about important Elements bug fixes, new features and other cool stuff being worked on in the Second Gear garage." = "Möchten Sie Elements registrieren? Dadurch können wir Sie über die Entwicklungen bei Elements und anderen Produkten von Second Gear auf dem Laufenden halten.";
 
 /* No comment provided by engineer. */
-"Yes" = "Yes";
+"Yes" = "Ja";
 
 /* No comment provided by engineer. */
-"You don't have permission to access that notebook." = "You don't have permission to access that notebook.";
+"You don't have permission to access that notebook." = "Sie sind nicht bereechtigt, auf diesen Notizblock zuzugreifen.";
 
 /* No comment provided by engineer. */
 "Your device is not allowed to send mail" = "Mit diesem Gerät können keine Mails versendet werden";

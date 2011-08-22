@@ -4,30 +4,30 @@
 ¿QUÉ ES ELEMENTS?
 #############################
 
-Elements es un editor de texto dedicado desarrollado por Markdown y Dropbox para iOS.  Elements permite ver, editar y compartir documentos de texto sin formato a través del iPad, iPhone o iPod touch.  Todos sus datos son almacenados en una carpeta de su cuenta personal de Dropbox, de modo que es accesible desde cualquiera de sus dispositivos.
+Elements es un editor de texto dedicado desarrollado por Markdown y Dropbox para iOS.  Elements permite ver, editar y compartir documentos de texto sin formato a través del iPad, iPhone o iPod touch.  Todos sus datos se almacenan en una carpeta de su cuenta personal de Dropbox, de modo que es accesible desde cualquiera de sus dispositivos.
 
-Tanto si usted es un escritor independiente que des a componer su próximo artículo, un estudiante que debe redactar una reseña sobre un libro, o un profesional en movimiento que necesita acceso a sus notas desde cualquier lugar, Elements puede serle útil.  
+Tanto si usted es un escritor independiente que desea componer su próximo artículo, un estudiante que debe redactar una reseña sobre un libro, o un profesional en movimiento que necesita acceso a sus notas desde cualquier lugar, Elements puede serle útil.  
 
 #############################
 CARACTERÍSTICAS
 #############################
 
 - Creación, visualización y edición de archivos de texto (.txt) desde su iPhone, iPad o iPod touch.
-- Computación en nube: Elements almacena todos sus datos en la subcarpeta /Elements de su cuenta personal de Dropbox, para que pueda acceder a ella a través de su iPhone, iPad, Mac o PC
+- Computación en nube: Elements almacena todos sus datos en la subcarpeta /Elements de su cuenta personal de Dropbox, para que pueda acceder a ella desde su iPhone, iPad, Mac o PC
 - Guardado automático 
 - Organización de archivos en subcarpetas
 - Publicación: Publique sus trabajos acabados en Facebook o Tumblr (¡Más servicios disponibles próximamente!)
-- Exportación: Exporte sus archivos como archivos HTML o PDF a Dropbox, Evernote, iTunes o correo electrónico
-- Creación y edición de formatos de archivo Markdown
+- Exportación: Exporte sus archivos como archivos HTML o PDF a Dropbox, Evernote, iTunes o por correo electrónico
+- Creación y edición de archivo con formato Markdown
 - Vista previa de documentos con formato Markdown
 - Modo sin conexión: suba los cambios a Dropbox en la próxima conexión
 - Búsqueda completa de texto en los archivos Elements
 - Recuento de palabras, líneas y caracteres
-- Un bloc de notas para dar cuerpo a las ideas o anotar conceptos sueltos
+- Bloc de notas para dar cuerpo a las ideas o anotar conceptos sueltos
 - Envío de archivos como adjuntos por correo electrónico
 - Ordenación de listas de archivos por nombre o fecha de modificación.
 - Personalización del aspecto del editor de texto para adaptarlo al flujo de trabajo
-- Compatibilidad con TextExpander touch
+- Compatibilidad con TextExpander Touch
 - Asistencia al cliente gratuita por correo electrónico
 
 #############################
@@ -50,7 +50,7 @@ RESEÑAS
 REQUISITOS
 #############################
 
-- iPhone o iPod touch con IOS 4.3
+- iPhone o iPod Touch con IOS 4.3
 - iPad con IOS 4.3
 - Cuenta de Dropbox
 
@@ -65,24 +65,24 @@ Le rogamos se abstenga de enviar informes de error o peticiones de nuevas funcio
 
 ===============
 
-¡Gracias por apoyar a Elements! Hemos estado trabajando con empeño en el taller de Second Gear para conseguir una nueva versión equipada con muchas de las características solicitadas por nuestros clientes.
+¡Gracias por apoyar a Elements! Hemos trabajado con empeño en el taller de Second Gear para conseguir una nueva versión equipada con muchas de las características solicitadas por nuestros clientes.
 
-* [NEW] Added support for changing the linked Dropbox folder.
-* [NEW] Added setting for iPad users to adjust the margins of the editor. iPhone users have default margins because of the smaller phone size. 
-* [NEW] Added bottom toolbar to the iPad editor.
-* [NEW] Added in-app documentation.
-* [NEW] Added a dark theme.
-* [CHANGE] Removed the text color setting.
-* [FIX] HTML Exporter now sets UTF-8 as its character set.
-* [FIX] Fixed Tumblr crash when users with private blogs tried to authenticate.
-* [FIX] Fixed another obscure crasher with Tumblr publishing.
-* [FIX] Fixed logging out to properly clear out cached versions of files.
-* [FIX] Fixed some button pressed states to not highlight in the file editor view.
-* [FIX] Fixed a variety of rotation issues with exporting and publishing.
-* [FIX] Fixed the background color of the appearance view controller.
-* [FIX] Fixed a rendering issue with the corners of grouped table views with custom background colors.
-* [FIX] Miscellaneous user interface improvements for certain users.
-* [FIX] Cleaned up the memory footprint of the app in various spots.
+* [NUEVO] Se ha añadido la posibilidad de modificar la carpeta vinculada de Dropbox.
+* [NUEVO] Se ha añadido un parámetro que permite a los usuarios de iPad ajustar los márgenes del editor. Los usuarios de iPhone disponen de márgenes fijos debido al menor tamaño de la pantalla. 
+* [NUEVO] Se ha añadido una barra de herramientas inferior al editor de iPad.
+* [NUEVO] Se ha incorporado la documentación en la propia aplicación.
+* [NUEVO] Se ha añadido un nuevo tema oscuro.
+* [CAMBIO] Se ha eliminado el parámetro de color de texto.
+* [SOLUCIÓN] El exportador de HTML ahora define UTF-8 como juego de caracteres.
+* [SOLUCIÓN] Se ha solucionado el error producido en Tumblr cuando los usuarios con blogs privados trataban de iniciar sesión.
+* [SOLUCIÓN] Se ha solucionado el error producido al publicar en Tumblr.
+* [SOLUCIÓN] Se ha modificado el fin de sesión para que limpie las versiones de los archivos en caché correctamente.
+* [SOLUCIÓN] Se han modificado algunos estados de botón para que no resalten el texto en la visualización del editor de archivos.
+* [SOLUCIÓN] Se han solucionado diversos problemas de rotación al exportar y publicar.
+* [SOLUCIÓN] Se ha solucionado el color de fondo del controlador de la visualización de aspecto.
+* [SOLUCIÓN] Se ha solucionado un problema de generación con las esquinas de la visualización de tabla agrupada con colores de fondo personalizados.
+* [SOLUCIÓN] Diversas mejoras de la interfaz de usuario para determinados usuarios.
+* [SOLUCIÓN] Se ha limpiado la huella de memoria de la aplicación en diversos puntos.
 
 Si le gusta Elements, no olvide valorar cada nueva versión con 5 estrellas en el App Store.  Las altas reseñas de nuestros clientes garantizan las actualizaciones futuras de las aplicaciones y permiten que nuestros nuevos clientes descubran la cantidad de personas que disfrutan de Elements.
 

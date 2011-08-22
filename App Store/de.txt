@@ -66,22 +66,22 @@ Bitte nehmen Sie davon Abstand, Fehler oder Verbesserungsvorschläge direkt im A
 
 Vielen Dank für die Unterstützung von Elements.  Wir in der Second Gear Garage haben hart an der neuen Version gearbeitet, und eine Menge der von Ihnen gewünschten Funktionen eingebaut.
 
-* [NEW] Added support for changing the linked Dropbox folder.
-* [NEW] Added setting for iPad users to adjust the margins of the editor. iPhone users have default margins because of the smaller phone size. 
-* [NEW] Added bottom toolbar to the iPad editor.
-* [NEW] Added in-app documentation.
-* [NEW] Added a dark theme.
-* [CHANGE] Removed the text color setting.
-* [FIX] HTML Exporter now sets UTF-8 as its character set.
-* [FIX] Fixed Tumblr crash when users with private blogs tried to authenticate.
-* [FIX] Fixed another obscure crasher with Tumblr publishing.
-* [FIX] Fixed logging out to properly clear out cached versions of files.
-* [FIX] Fixed some button pressed states to not highlight in the file editor view.
-* [FIX] Fixed a variety of rotation issues with exporting and publishing.
-* [FIX] Fixed the background color of the appearance view controller.
-* [FIX] Fixed a rendering issue with the corners of grouped table views with custom background colors.
-* [FIX] Miscellaneous user interface improvements for certain users.
-* [FIX] Cleaned up the memory footprint of the app in various spots.
+* [NEU] Unterstützung für das Ändern des verlinkten Dropboxordners hinzugefügt
+* [NEU Einstellung für das Anpassen der Ränder im Editor für iPad-Benutzer hinzugefügt. iPhone-Benutzer haben Standardränder wegen der geringeren Größe des Telefons.
+* [NEU] Untere Toolbar zum iPad-Editor hinzugefügt
+* [NEU] In-App Dokumentation hinzugefügt.
+* [NEU] Dunkles Thema hinzugefügt.
+* [GEÄNDERT] Textfarbeneinstellung entfernt.
+* [BEHOBEN] Der HTML-Exporter stellt nun UTF-8 als Zeichensatz ein.
+* [BEHOBEN] Tumblr-Absturz, bei dem Benutzer mit privaten Blogs versuchten zu authentisieren, behoben.
+* [BEHOBEN] Noch ein obskurer Absturz mit Tumblr-Veröffentlichung behoben.
+* [BEHOBEN] Logout - Fehler behoben, um gecachte Versionen von Daten vollständig zu entfernen.
+* [BEHOBEN] Knopfdruck-Status wird im Dateieditor nicht mehr hervorgehoben.
+* [BEHOBEN] Eine Reihe an Rotationsproblemen beim Exportieren und Veröffentlichen behoben.
+* [BEHOBEN] Problem mit der Hintergrundfarbe des Ansichtscontrollers behoben. 
+* [BEHOBEN] Renderproblem mit den Ecken von gruppierten Tabellenansichten mit benutzerdefinierten Hintergrundfarben behoben.
+* [BEHOBEN] Verschiedene Verbesserungen der Benutzeroberfläche für einige Benutzer vorgenommen.
+* [BEHOBEN] Speichernutzung der App in sämtlichen Bereichen verbessert.
 
 Wenn Elements Ihnen gefällt, dann bewerten Sie bitte jede neue Version im App Store mit fünf Sternen! Hohe Bewertungen von unseren Kunden sicher die Zukunft unserer Apps und zeigen potentiellen Kunden wie sehr Sie Elements mögen.
 

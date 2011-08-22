@@ -140,7 +140,7 @@
 "Elements creates an 'Elements' folder in your Dropbox to hold your data.  Drop any text file you want to edit on your device in there." = "Elements creates an 'Elements' folder in your Dropbox to hold your data.  Drop any text file you want to edit on your device in there.";
 
 /* No comment provided by engineer. */
-"Elements stores your files your files on Dropbox in the /Elements folder by default. Do you want to select a different folder? " = "Elements stores your files your files on Dropbox in the /Elements folder by default. Do you want to select a different folder? ";
+"Elements stores your files your files on Dropbox in the /Elements folder by default. Do you want to select a different folder? " = "Elements stores your files on Dropbox in the /Elements folder by default. Do you want to select a different folder? ";
 
 /* No comment provided by engineer. */
 "Email" = "Email";
@@ -519,4 +519,3 @@
 
 /* No comment provided by engineer. */
 "Your device is not allowed to send mail" = "Your device is not allowed to send mail";
-
