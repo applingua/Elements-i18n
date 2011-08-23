@@ -1,4 +1,4 @@
-/* No comment provided by engineer. */
+﻿/* No comment provided by engineer. */
 "A file exists with that name already." = "Ein Dokument mit diesem Namen existiert bereits.";
 
 /* No comment provided by engineer. */
@@ -455,7 +455,7 @@
 "The scratchpad is a great place to jot down quick ideas, store paragraphs you want to get out of the way, or just make a note for yourself later on." = "Im Notizblock können Sie einfach Ihre Ideen ablegen, Textblöcke zur Seite legen oder einfach nur einen Text eingeben, damit Sie ihn nicht vergessen.";
 
 /* No comment provided by engineer. */
-"Theme" = "Theme";
+"Theme" = "Thema";
 
 /* No comment provided by engineer. */
 "Too many notes." = "Zu viele Notizen.";
@@ -519,4 +519,3 @@
 
 /* No comment provided by engineer. */
 "Your device is not allowed to send mail" = "Mit diesem Gerät können keine Mails versendet werden";
-
