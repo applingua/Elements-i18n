@@ -146,10 +146,10 @@
 "Email" = "Correo electrónico";
 
 /* No comment provided by engineer. */
-"email document" = "enviar documento por correo electrónico";
+"email document" = "enviar documento por correo";
 
 /* No comment provided by engineer. */
-"Email File" = "Enviar archivo por correo electrónico";
+"Email File" = "Enviar por correo";
 
 /* No comment provided by engineer. */
 "Enabling logging will output of all the sync operations Elements does to your device's console." = "La activación del registro enviará todas las operaciones de sincronización realizadas por Elements a la consola de su dispositivo.";
