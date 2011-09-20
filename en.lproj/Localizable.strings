@@ -35,7 +35,7 @@
 "Are you sure you want to change the folder on Dropbox that Elements syncs to?" = "Are you sure you want to change the folder on Dropbox that Elements syncs to?";
 
 /* No comment provided by engineer. */
-"Are you sure you want to clear your scratchpad?" = "Are you sure you want to clear your scratchpad?";
+"Are you sure you want to clear your Scratchpad?" = "Are you sure you want to clear your Scratchpad?";
 
 /* No comment provided by engineer. */
 "Are you sure you want to sign out?" = "Are you sure you want to sign out?";
@@ -86,7 +86,7 @@
 "Couldn't Delete File" = "Couldn't Delete File";
 
 /* No comment provided by engineer. */
-"Create A Dropbox Account" = "Create A Dropbox Account";
+"Create a Dropbox account" = "Create a Dropbox account";
 
 /* No comment provided by engineer. */
 "Create Folder Error" = "Create Folder Error";
@@ -122,7 +122,7 @@
 "Dropbox" = "Dropbox";
 
 /* No comment provided by engineer. */
-"Dropbox account" = "Dropbox account";
+"Dropbox Account" = "Dropbox Account";
 
 /* No comment provided by engineer. */
 "Dropbox Sync" = "Dropbox Sync";
@@ -263,9 +263,6 @@
 "Login failed because of an error communicating with the Evernote servers.  Please try again later." = "Login failed because of an error communicating with the Evernote servers.  Please try again later.";
 
 /* No comment provided by engineer. */
-"Logout" = "Logout";
-
-/* No comment provided by engineer. */
 "Margins" = "Margins";
 
 /* No comment provided by engineer. */
@@ -291,9 +288,6 @@
 
 /* No comment provided by engineer. */
 "Narrow" = "Narrow";
-
-/* No comment provided by engineer. */
-"New Folder" = "New Folder";
 
 /* No comment provided by engineer. */
 "New Folder %ld" = "New Folder %ld";
@@ -404,7 +398,7 @@
 "Show Extensions" = "Show Extensions";
 
 /* No comment provided by engineer. */
-"Show Login Screen Instead" = "Show Login Screen Instead";
+"Show login screen instead" = "Show login screen instead";
 
 /* No comment provided by engineer. */
 "show markdown preview" = "show markdown preview";
@@ -417,6 +411,9 @@
 
 /* No comment provided by engineer. */
 "Sign out" = "Sign out";
+
+/* No comment provided by engineer. */
+"Sign Out" = "Sign Out";
 
 /* No comment provided by engineer. */
 "Signing In To Dropbox" = "Signing In To Dropbox";
@@ -452,7 +449,7 @@
 "The content is invalid." = "The content is invalid.";
 
 /* No comment provided by engineer. */
-"The scratchpad is a great place to jot down quick ideas, store paragraphs you want to get out of the way, or just make a note for yourself later on." = "The scratchpad is a great place to jot down quick ideas, store paragraphs you want to get out of the way, or just make a note for yourself later on.";
+"The Scratchpad is a great place to jot down quick ideas, store paragraphs you want to get out of the way, or just make a note for yourself later on." = "The Scratchpad is a great place to jot down quick ideas, store paragraphs you want to get out of the way, or just make a note for yourself later on.";
 
 /* No comment provided by engineer. */
 "Theme" = "Theme";
