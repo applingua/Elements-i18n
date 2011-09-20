@@ -35,7 +35,7 @@
 "Are you sure you want to change the folder on Dropbox that Elements syncs to?" = "¿Está seguro de que desea modificar la carpeta de Dropbox que sincroniza Elements?";
 
 /* No comment provided by engineer. */
-"Are you sure you want to clear your scratchpad?" = "¿Está seguro de que desea limpiar el bloc de notas?";
+"Are you sure you want to clear your Scratchpad?" = "¿Está seguro de que desea limpiar el bloc de notas?";
 
 /* No comment provided by engineer. */
 "Are you sure you want to sign out?" = "¿Está seguro de que desea cerrar sesión?";
@@ -86,7 +86,7 @@
 "Couldn't Delete File" = "No ha sido posible eliminar el archivo";
 
 /* No comment provided by engineer. */
-"Create A Dropbox Account" = "Crear una cuenta de Dropbox";
+"Create a Dropbox account" = "Crear una cuenta de Dropbox";
 
 /* No comment provided by engineer. */
 "Create Folder Error" = "Error al crear la carpeta";
@@ -122,7 +122,7 @@
 "Dropbox" = "Dropbox";
 
 /* No comment provided by engineer. */
-"Dropbox account" = "Cuenta de Dropbox";
+"Dropbox Account" = "Cuenta de Dropbox";
 
 /* No comment provided by engineer. */
 "Dropbox Sync" = "Sincronización con Dropbox";
@@ -263,9 +263,6 @@
 "Login failed because of an error communicating with the Evernote servers.  Please try again later." = "Login fallido debido a un error de comunicación con los servidores de Evernote. Inténtelo de nuevo más tarde.";
 
 /* No comment provided by engineer. */
-"Logout" = "Cerrar sesión";
-
-/* No comment provided by engineer. */
 "Margins" = "Márgenes";
 
 /* No comment provided by engineer. */
@@ -291,9 +288,6 @@
 
 /* No comment provided by engineer. */
 "Narrow" = "Estrechos";
-
-/* No comment provided by engineer. */
-"New Folder" = "Nueva carpeta";
 
 /* No comment provided by engineer. */
 "New Folder %ld" = "Nueva carpeta %ld";
@@ -404,7 +398,7 @@
 "Show Extensions" = "Mostrar extensiones";
 
 /* No comment provided by engineer. */
-"Show Login Screen Instead" = "Mostrar la pantalla de inicio de sesión en su lugar";
+"Show login screen instead" = "Mostrar la pantalla de inicio de sesión en su lugar";
 
 /* No comment provided by engineer. */
 "show markdown preview" = "mostrar la vista previa de markdown";
@@ -417,6 +411,9 @@
 
 /* No comment provided by engineer. */
 "Sign out" = "Cerrar sesión";
+
+/* No comment provided by engineer. */
+"Sign Out" = "Sign Out";
 
 /* No comment provided by engineer. */
 "Signing In To Dropbox" = "Inicio de sesión en Dropbox";
@@ -452,7 +449,7 @@
 "The content is invalid." = "El contenido es inválido";
 
 /* No comment provided by engineer. */
-"The scratchpad is a great place to jot down quick ideas, store paragraphs you want to get out of the way, or just make a note for yourself later on." = "El bloc de notas es un gran lugar para anotar ideas, guardar párrafos que desea eliminar del texto, o simplemente anotar conceptos para otro momento.";
+"The Scratchpad is a great place to jot down quick ideas, store paragraphs you want to get out of the way, or just make a note for yourself later on." = "El bloc de notas es un gran lugar para anotar ideas, guardar párrafos que desea eliminar del texto, o simplemente anotar conceptos para otro momento.";
 
 /* No comment provided by engineer. */
 "Theme" = "Tema";

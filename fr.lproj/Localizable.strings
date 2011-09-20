@@ -1,4 +1,4 @@
-﻿/* No comment provided by engineer. */
+/* No comment provided by engineer. */
 "A file exists with that name already." = "Un fichier avec ce nom existe déjà.";
 
 /* No comment provided by engineer. */
@@ -35,7 +35,7 @@
 "Are you sure you want to change the folder on Dropbox that Elements syncs to?" = "Etes-vous sûr de vouloir modifier le répertoire sur Dropbox vers lequel Elements synchronise?";
 
 /* No comment provided by engineer. */
-"Are you sure you want to clear your scratchpad?" = "Etes vous sûr de vouloir effacer votre bloc notes?";
+"Are you sure you want to clear your Scratchpad?" = "Etes vous sûr de vouloir effacer votre bloc notes?";
 
 /* No comment provided by engineer. */
 "Are you sure you want to sign out?" = "Etes vous sûr de vouloir vous déconnecter?";
@@ -86,7 +86,7 @@
 "Couldn't Delete File" = "Impossible d'effacer le texte";
 
 /* No comment provided by engineer. */
-"Create A Dropbox Account" = "Créez un compte Dropbox";
+"Create a Dropbox account" = "Créez un compte Dropbox";
 
 /* No comment provided by engineer. */
 "Create Folder Error" = "Erreur création répertoire";
@@ -122,7 +122,7 @@
 "Dropbox" = "Dropbox";
 
 /* No comment provided by engineer. */
-"Dropbox account" = "Compte Dropbox";
+"Dropbox Account" = "Compte Dropbox";
 
 /* No comment provided by engineer. */
 "Dropbox Sync" = "Synchro Dropbox";
@@ -263,9 +263,6 @@
 "Login failed because of an error communicating with the Evernote servers.  Please try again later." = "La connexion a échoué suite à un problème de communication avec les serveurs Evernote. Veuillez réeassyer plus tard.";
 
 /* No comment provided by engineer. */
-"Logout" = "Déconnexion";
-
-/* No comment provided by engineer. */
 "Margins" = "Marges";
 
 /* No comment provided by engineer. */
@@ -291,9 +288,6 @@
 
 /* No comment provided by engineer. */
 "Narrow" = "Limité";
-
-/* No comment provided by engineer. */
-"New Folder" = "Nouveau dossier";
 
 /* No comment provided by engineer. */
 "New Folder %ld" = "Nouveau Dossier %ld";
@@ -404,7 +398,7 @@
 "Show Extensions" = "Voir les Extensions";
 
 /* No comment provided by engineer. */
-"Show Login Screen Instead" = "Afficher plutôt l'écran d'authentification";
+"Show login screen instead" = "Afficher plutôt l'écran d'authentification";
 
 /* No comment provided by engineer. */
 "show markdown preview" = "voir le rendu markdown";
@@ -417,6 +411,9 @@
 
 /* No comment provided by engineer. */
 "Sign out" = "Déconnexion";
+
+/* No comment provided by engineer. */
+"Sign Out" = "Sign Out";
 
 /* No comment provided by engineer. */
 "Signing In To Dropbox" = "Connexion à Dropbox";
@@ -452,7 +449,7 @@
 "The content is invalid." = "Le contenu est invalide.";
 
 /* No comment provided by engineer. */
-"The scratchpad is a great place to jot down quick ideas, store paragraphs you want to get out of the way, or just make a note for yourself later on." = "Le bloc note est un endroit idéal pour écrire de nouvelles idées rapidement, stocker des paragraphes qui gênent ou pour faire une note pour plus tard.";
+"The Scratchpad is a great place to jot down quick ideas, store paragraphs you want to get out of the way, or just make a note for yourself later on." = "Le bloc note est un endroit idéal pour écrire de nouvelles idées rapidement, stocker des paragraphes qui gênent ou pour faire une note pour plus tard.";
 
 /* No comment provided by engineer. */
 "Theme" = "Thème";
