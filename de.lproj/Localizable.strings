@@ -1,4 +1,4 @@
-/* No comment provided by engineer. */
+﻿/* No comment provided by engineer. */
 "A file exists with that name already." = "Ein Dokument mit diesem Namen existiert bereits.";
 
 /* No comment provided by engineer. */
@@ -35,7 +35,7 @@
 "Are you sure you want to change the folder on Dropbox that Elements syncs to?" = "Sind Sie sicher, dass Sie den Dropbox-Ordner, mit dem Elements synchronisiert, ändern möchten?";
 
 /* No comment provided by engineer. */
-"Are you sure you want to clear your Scratchpad?" = "Sind Sie sicher, dass Sie den Notizblock löschen wollen?";
+"Are you sure you want to clear your Scratchpad?" = "Sind Sie sicher, dass Sie Ihren Notizblock löschen möchten?";
 
 /* No comment provided by engineer. */
 "Are you sure you want to sign out?" = "Wollen Sie sich wirklich abmelden?";
@@ -86,7 +86,7 @@
 "Couldn't Delete File" = "Dokument konnte nicht gelöscht werden";
 
 /* No comment provided by engineer. */
-"Create a Dropbox account" = "Dropbox Account anlegen";
+"Create a Dropbox account" = "Neues Dropbox-Konto erstellen";
 
 /* No comment provided by engineer. */
 "Create Folder Error" = "Fehler beim Erstellen des Ordners";
@@ -122,7 +122,7 @@
 "Dropbox" = "Dropbox";
 
 /* No comment provided by engineer. */
-"Dropbox Account" = "Dropbox Account";
+"Dropbox Account" = "Dropbox-Konto";
 
 /* No comment provided by engineer. */
 "Dropbox Sync" = "Dropbox synchronisieren";
@@ -398,7 +398,7 @@
 "Show Extensions" = "Suffix anzeigen";
 
 /* No comment provided by engineer. */
-"Show login screen instead" = "Anmeldedialog anzeigen";
+"Show login screen instead" = "Stattdessen Loginbildschirm anzeigen";
 
 /* No comment provided by engineer. */
 "show markdown preview" = "Markdown Voransicht anzeigen";
@@ -413,7 +413,7 @@
 "Sign out" = "Abmelden";
 
 /* No comment provided by engineer. */
-"Sign Out" = "Sign Out";
+"Sign Out" = "Abmelden";
 
 /* No comment provided by engineer. */
 "Signing In To Dropbox" = "Bei Dropbox anmelden";
@@ -449,7 +449,7 @@
 "The content is invalid." = "Der Inhalt ist ungültig.";
 
 /* No comment provided by engineer. */
-"The Scratchpad is a great place to jot down quick ideas, store paragraphs you want to get out of the way, or just make a note for yourself later on." = "Im Notizblock können Sie einfach Ihre Ideen ablegen, Textblöcke zur Seite legen oder einfach nur einen Text eingeben, damit Sie ihn nicht vergessen.";
+"The Scratchpad is a great place to jot down quick ideas, store paragraphs you want to get out of the way, or just make a note for yourself later on." = "Der Notizblock ist ein toller Ort, plötzliche Ideen niederzukritzeln, Absätze, die Sie stören, aufzubewahren, oder einfach eine Notiz für Sie selbst für später zu machen.";
 
 /* No comment provided by engineer. */
 "Theme" = "Thema";

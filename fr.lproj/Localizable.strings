@@ -1,4 +1,4 @@
-/* No comment provided by engineer. */
+﻿/* No comment provided by engineer. */
 "A file exists with that name already." = "Un fichier avec ce nom existe déjà.";
 
 /* No comment provided by engineer. */
@@ -35,7 +35,7 @@
 "Are you sure you want to change the folder on Dropbox that Elements syncs to?" = "Etes-vous sûr de vouloir modifier le répertoire sur Dropbox vers lequel Elements synchronise?";
 
 /* No comment provided by engineer. */
-"Are you sure you want to clear your Scratchpad?" = "Etes vous sûr de vouloir effacer votre bloc notes?";
+"Are you sure you want to clear your Scratchpad?" = "Etes-vous sûr de vouloir effacer votre Blocnote?";
 
 /* No comment provided by engineer. */
 "Are you sure you want to sign out?" = "Etes vous sûr de vouloir vous déconnecter?";
@@ -86,7 +86,7 @@
 "Couldn't Delete File" = "Impossible d'effacer le texte";
 
 /* No comment provided by engineer. */
-"Create a Dropbox account" = "Créez un compte Dropbox";
+"Create a Dropbox account" = "Créer un compte Dropbox";
 
 /* No comment provided by engineer. */
 "Create Folder Error" = "Erreur création répertoire";
@@ -398,7 +398,7 @@
 "Show Extensions" = "Voir les Extensions";
 
 /* No comment provided by engineer. */
-"Show login screen instead" = "Afficher plutôt l'écran d'authentification";
+"Show login screen instead" = "Afficher l'écran d'accueil à la place";
 
 /* No comment provided by engineer. */
 "show markdown preview" = "voir le rendu markdown";
@@ -413,7 +413,7 @@
 "Sign out" = "Déconnexion";
 
 /* No comment provided by engineer. */
-"Sign Out" = "Sign Out";
+"Sign Out" = "Déconnexion";
 
 /* No comment provided by engineer. */
 "Signing In To Dropbox" = "Connexion à Dropbox";
@@ -449,7 +449,7 @@
 "The content is invalid." = "Le contenu est invalide.";
 
 /* No comment provided by engineer. */
-"The Scratchpad is a great place to jot down quick ideas, store paragraphs you want to get out of the way, or just make a note for yourself later on." = "Le bloc note est un endroit idéal pour écrire de nouvelles idées rapidement, stocker des paragraphes qui gênent ou pour faire une note pour plus tard.";
+"The Scratchpad is a great place to jot down quick ideas, store paragraphs you want to get out of the way, or just make a note for yourself later on." = "Le Blocnote est un endroit idéal pour noter rapidement vos idées, stocker des paragraphes que vous voulez retirer de vos textes, ou juste vous faire une note pour plus tard.";
 
 /* No comment provided by engineer. */
 "Theme" = "Thème";
