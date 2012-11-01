@@ -1,4 +1,19 @@
 /* No comment provided by engineer. */
+"%@. Last modified %@." = "%1$@. Última modificación: %2$@.";
+
+/* No comment provided by engineer. */
+"%ld words・%ld characters" = "%1$ld palabras・%2$ld caracteres";
+
+/* No comment provided by engineer. */
+"1 hour" = "1 hora";
+
+/* No comment provided by engineer. */
+"1 minute" = "1 minuto";
+
+/* No comment provided by engineer. */
+"@secondgear on Twitter" = "@secondgear en Twitter";
+
+/* No comment provided by engineer. */
 "A file exists with that name already." = "Ya existe un archivo con este nombre.";
 
 /* No comment provided by engineer. */
@@ -11,6 +26,9 @@
 "Accounts" = "Cuentas";
 
 /* No comment provided by engineer. */
+"action sheet" = "hoja de acciones";
+
+/* No comment provided by engineer. */
 "Add Account" = "Agregar cuenta";
 
 /* No comment provided by engineer. */
@@ -21,9 +39,6 @@
 
 /* No comment provided by engineer. */
 "add folder" = "añadir carpeta";
-
-/* No comment provided by engineer. */
-"An unknown error occurred" = "Ha ocurrido un error desconocido";
 
 /* No comment provided by engineer. */
 "appearance" = "apariencia";
@@ -47,13 +62,13 @@
 "As HTML Email" = "Como correo HTML";
 
 /* No comment provided by engineer. */
-"Authorization Failed" = "La autorización ha fallado";
-
-/* No comment provided by engineer. */
 "Can't Send Mail" = "No es posible enviar correo";
 
 /* No comment provided by engineer. */
 "Cancel" = "Cancelar";
+
+/* No comment provided by engineer. */
+"Cellular" = "Móvil";
 
 /* No comment provided by engineer. */
 "Change Dropbox Folder" = "Modificar la carpeta de Dropbox";
@@ -63,9 +78,6 @@
 
 /* No comment provided by engineer. */
 "Check Spelling" = "Comprobar ortografía";
-
-/* No comment provided by engineer. */
-"Check your credentials or connection and try again." = "Compruebe sus credenciales y su conexión e inténtelo de nuevo.";
 
 /* No comment provided by engineer. */
 "Clear" = "Limpiar";
@@ -80,22 +92,16 @@
 "Contact Us" = "Contacte con nosotros";
 
 /* No comment provided by engineer. */
+"Copy HTML" = "Copiar HTML";
+
+/* No comment provided by engineer. */
 "Could not sign in to Tumblr. Please check your email and password." = "No ha sido posible acceder a Tumblr. Verifique su correo electrónico y contraseña.";
 
 /* No comment provided by engineer. */
 "Couldn't Delete File" = "No ha sido posible eliminar el archivo";
 
 /* No comment provided by engineer. */
-"Create a Dropbox account" = "Crear una cuenta de Dropbox";
-
-/* No comment provided by engineer. */
 "Create Folder Error" = "Error al crear la carpeta";
-
-/* No comment provided by engineer. */
-"Creating /Elements folder" = "Creación de su carpeta de elementos";
-
-/* No comment provided by engineer. */
-"Creating Your Dropbox Account" = "Creación de su cuenta de Dropbox";
 
 /* No comment provided by engineer. */
 "Debug Logging" = "Registro de depuración";
@@ -105,15 +111,6 @@
 
 /* No comment provided by engineer. */
 "Default Extension" = "Extensión predeterminada";
-
-/* No comment provided by engineer. */
-"Define" = "Definir";
-
-/* No comment provided by engineer. */
-"document information" = "información del documento";
-
-/* No comment provided by engineer. */
-"Documentation" = "Documentación";
 
 /* No comment provided by engineer. */
 "Done" = "Hecho";
@@ -134,25 +131,25 @@
 "Editing" = "Edición";
 
 /* No comment provided by engineer. */
-"Elements %@\nThank you for purchasing Elements." = "Elements %@\nGracias por adquirir Elements.";
-
-/* No comment provided by engineer. */
-"Elements creates an 'Elements' folder in your Dropbox to hold your data.  Drop any text file you want to edit on your device in there." = "Elements crea una carpeta 'Elements' en Dropbox para conservar sus datos. Arrastre y suelte cualquier archivo que quiera editar en su dispositivo en esta carpeta.";
+"Elements %@ (%@)\nThank you for purchasing Elements." = "Elements %1$@ (%2$@)\nGracias por comprar Elements.";
 
 /* No comment provided by engineer. */
 "Elements stores your files on Dropbox in the /Elements folder by default. Do you want to select a different folder? " = "Elements guarda por defecto los archivos en Dropbox en la carpeta /Elements. ¿Desea seleccionar una carpeta distinta?";
 
 /* No comment provided by engineer. */
-"Email" = "Correo electrónico";
+"Elements uses Dropbox to store your files in the cloud." = "Elements utiliza Dropbox para guardar tus archivos en la nube.";
 
 /* No comment provided by engineer. */
-"email document" = "enviar documento por correo";
+"Email" = "Correo electrónico";
 
 /* No comment provided by engineer. */
 "Email File" = "Enviar archivo por correo";
 
 /* No comment provided by engineer. */
 "Enabling logging will output of all the sync operations Elements does to your device's console." = "La activación del registro enviará todas las operaciones de sincronización realizadas por Elements a la consola de su dispositivo.";
+
+/* No comment provided by engineer. */
+"Enabling this will periodically send completely anonymous usage statistics so we can better understand what features are most popular, which need more attention and which might not be so popular. We will never send information about your specific iOS device or personal information." = "Si activas esta función, se enviarán de forma completamente anónima estadísticas de uso que nos ayudan a comprender qué funciones son más populares, cuáles requieren más atención y cuáles podrían resultar menos interesantes. Nunca recopilaremos información sobre el iOS específico del dispositivo ni información personal.";
 
 /* No comment provided by engineer. */
 "Enter a file name" = "Introduzca un nombre de archivo";
@@ -173,16 +170,7 @@
 "Error Opening File" = "Error al abrir el archivo";
 
 /* No comment provided by engineer. */
-"Error parsing Dropbox metadata json." = "Error al analizar los metadatos json de Dropbox .";
-
-/* No comment provided by engineer. */
 "Error Saving Local Changes" = "Error al guardar los cambios locales";
-
-/* No comment provided by engineer. */
-"Evernote" = "Evernote";
-
-/* No comment provided by engineer. */
-"Evernote Sign In" = "Registrarse en Evernote";
 
 /* No comment provided by engineer. */
 "Export" = "Exportar";
@@ -192,12 +180,6 @@
 
 /* No comment provided by engineer. */
 "Exporting To Dropbox" = "Exportando a Dropbox";
-
-/* No comment provided by engineer. */
-"Exporting to Evernote..." = "Exportando a Evernote…";
-
-/* No comment provided by engineer. */
-"Facebook" = "Facebook";
 
 /* No comment provided by engineer. */
 "File Exists" = "El archivo ya existe";
@@ -212,16 +194,28 @@
 "Files" = "Archivos";
 
 /* No comment provided by engineer. */
-"First Name" = "Nombre";
+"Folder Exists" = "La carpeta ya existe";
 
 /* No comment provided by engineer. */
-"Folder Exists" = "La carpeta ya existe";
+"Follow" = "Seguir";
+
+/* No comment provided by engineer. */
+"Follow @secondgear on Twitter to get important information about Elements and other cool stuff being worked on in the Second Gear garage." = "Sigue a @secondgear en Twitter para obtener información importante sobre Elements y otros fantásticos proyectos gestados en el garaje de Second Gear.";
+
+/* No comment provided by engineer. */
+"Follow Second Gear On Twitter" = "Seguir a Second Gear en Twitter";
+
+/* No comment provided by engineer. */
+"Following" = "Siguiendo";
 
 /* No comment provided by engineer. */
 "Font" = "Fuente";
 
 /* No comment provided by engineer. */
 "Help & Support" = "Ayuda y asistencia";
+
+/* No comment provided by engineer. */
+"Help Improve Elements" = "Ayuda a mejorar Elements";
 
 /* No comment provided by engineer. */
 "How do you want to email this file?" = "¿Cómo desea enviar este archivo?";
@@ -233,19 +227,19 @@
 "Inline" = "En línea";
 
 /* No comment provided by engineer. */
+"Internet connection lost" = "Conexión a Internet perdida";
+
+/* No comment provided by engineer. */
 "iTunes" = "iTunes";
 
 /* No comment provided by engineer. */
 "Last Modified" = "Última modificación";
 
 /* No comment provided by engineer. */
-"Last Name" = "Apellidos";
+"last week" = "la semana pasada";
 
 /* No comment provided by engineer. */
 "Legal" = "Legal";
-
-/* No comment provided by engineer. */
-"Like us!" = "¡Me gusta!";
 
 /* No comment provided by engineer. */
 "Line Count" = "Recuento de líneas";
@@ -258,12 +252,6 @@
 
 /* No comment provided by engineer. */
 "Login Failed" = "El login ha fallado";
-
-/* No comment provided by engineer. */
-"Login failed because of an error communicating with the Evernote servers.  Please try again later." = "Login fallido debido a un error de comunicación con los servidores de Evernote. Inténtelo de nuevo más tarde.";
-
-/* No comment provided by engineer. */
-"Margins" = "Márgenes";
 
 /* No comment provided by engineer. */
 "Markdown Preview" = "Vista previa de Markdown";
@@ -279,6 +267,9 @@
 
 /* No comment provided by engineer. */
 "Modified ↓" = "Modificado ↓";
+
+/* No comment provided by engineer. */
+"Modified: %@" = "Modificado: %@";
 
 /* No comment provided by engineer. */
 "Name ↑" = "Nombre ↑";
@@ -299,19 +290,19 @@
 "No" = "No";
 
 /* No comment provided by engineer. */
+"No Connection" = "Sin conexión";
+
+/* No comment provided by engineer. */
+"No internet connection" = "Sin conexión a Internet";
+
+/* No comment provided by engineer. */
 "No Internet Connection Detected." = "No se ha detectado la conexión a Internet.";
 
 /* No comment provided by engineer. */
-"Notebooks" = "Blocs de notas";
+"No Thanks" = "No, gracias";
 
 /* No comment provided by engineer. */
 "OK" = "Aceptar";
-
-/* No comment provided by engineer. */
-"Operation would exceed monthly upload allowance." = "Esta operación superaría la cuota de carga mensual.";
-
-/* No comment provided by engineer. */
-"Our Other Apps" = "Nuestras otras aplicaciones";
 
 /* No comment provided by engineer. */
 "Password" = "Contraseña";
@@ -320,7 +311,7 @@
 "PDF File" = "Archivo PDF";
 
 /* No comment provided by engineer. */
-"Posting To Facebook..." = "Enviando a Facebook…";
+"Please try again." = "Inténtelo de nuevo.";
 
 /* No comment provided by engineer. */
 "Posting To Tumblr..." = "Enviando a Tumblr…";
@@ -329,25 +320,22 @@
 "Print" = "Imprimir";
 
 /* No comment provided by engineer. */
+"Privacy" = "Privacidad";
+
+/* No comment provided by engineer. */
 "Private Tumblelog" = "Tumblelog privado";
 
 /* No comment provided by engineer. */
 "Publish" = "Publicar";
 
 /* No comment provided by engineer. */
-"Published!" = "¡Publicado!";
+"Rate On The App Store" = "Valorar en el App Store";
 
 /* No comment provided by engineer. */
 "Receive infrequent updates on Elements updates and other Second Gear apps. You can unsubscribe at anytime." = "Recibir actualizaciones ocasionales acerca de Elements y del resto de las aplicaciones de Second Gear. Puede darse de baja en cualquier momento.";
 
 /* No comment provided by engineer. */
 "Receive Second Gear News" = "Recibir noticias de Second Gear";
-
-/* No comment provided by engineer. */
-"Register" = "Registro";
-
-/* No comment provided by engineer. */
-"Register Elements" = "Registrar Elements";
 
 /* No comment provided by engineer. */
 "Registering..." = "Registrando…";
@@ -361,6 +349,9 @@
 /* No comment provided by engineer. */
 "Required" = "Requerido";
 
+/* Retry loading a page that has failed to load */
+"Retry" = "Reintentar";
+
 /* No comment provided by engineer. */
 "scratch pad" = "bloc de notas";
 
@@ -371,16 +362,19 @@
 "Second Gear" = "Second Gear";
 
 /* No comment provided by engineer. */
-"Second Gear Apps" = "Aplicaciones de Second Gear";
+"Select" = "Seleccionar";
 
 /* No comment provided by engineer. */
-"Select" = "Seleccionar";
+"Selected: %d words" = "Seleccionadas: %d palabras";
 
 /* No comment provided by engineer. */
 "Send Feedback" = "Enviar comentarios";
 
 /* No comment provided by engineer. */
 "Send To" = "Enviar a";
+
+/* No comment provided by engineer. */
+"Setting Up Elements" = "Configuración de Elements";
 
 /* No comment provided by engineer. */
 "settings" = "configuración";
@@ -392,22 +386,13 @@
 "SGHTTPOperation Error" = "Error de operación SGHTTP";
 
 /* No comment provided by engineer. */
-"Shareables" = "Compartibles";
+"Share Usage Stats" = "Compartir estadísticas de uso";
 
 /* No comment provided by engineer. */
 "Show Extensions" = "Mostrar extensiones";
 
 /* No comment provided by engineer. */
-"Show login screen instead" = "Mostrar la pantalla de inicio de sesión";
-
-/* No comment provided by engineer. */
 "show markdown preview" = "mostrar la vista previa de markdown";
-
-/* No comment provided by engineer. */
-"Shrink & share URLs on your favorite social services." = "Abreviar y compartir los URL en sus redes sociales favoritas.";
-
-/* No comment provided by engineer. */
-"Sign in with your Dropbox account" = "Inicie sesión en su cuenta de Dropbox";
 
 /* No comment provided by engineer. */
 "Sign out" = "Cerrar sesión";
@@ -416,28 +401,31 @@
 "Sign Out" = "Cerrar sesión";
 
 /* No comment provided by engineer. */
-"Signing In To Dropbox" = "Inicio de sesión en Dropbox";
-
-/* No comment provided by engineer. */
-"Signing In To Evernote..." = "Inicio de sesión en Evernote…";
-
-/* No comment provided by engineer. */
 "Signing In To Tumblr..." = "Inicio de sesión en Tumblr…";
 
 /* No comment provided by engineer. */
-"Signup Failed" = "El registro ha fallado";
+"Signup Error" = "Error de suscripción";
 
 /* No comment provided by engineer. */
 "Sort By" = "Ordenar por";
 
 /* No comment provided by engineer. */
+"Success" = "Realizado";
+
+/* No comment provided by engineer. */
 "Support" = "Asistencia";
 
 /* No comment provided by engineer. */
-"Tap here to signup for Dropbox" = "Toque aquí para registrarse en Dropbox";
+"Tap 'Follow' to add @secondgear to your following list." = "Toca en 'Seguir' para agregar @secondgear a tu lista de seguimiento.";
 
 /* No comment provided by engineer. */
 "Text Size" = "Tamaño del texto";
+
+/* No comment provided by engineer. */
+"Text Style" = "Estilo del texto";
+
+/* No comment provided by engineer. */
+"Text Width" = "Ancho del texto";
 
 /* No comment provided by engineer. */
 "TextExpander" = "TextExpander";
@@ -446,7 +434,7 @@
 "Thanks" = "Gracias";
 
 /* No comment provided by engineer. */
-"The content is invalid." = "El contenido es inválido";
+"That email doesn't look valid. Please check it and subscribing again." = "Este correo electrónico no parece válido. Compruébalo e intenta suscribirte de nuevo.";
 
 /* No comment provided by engineer. */
 "The Scratchpad is a great place to jot down quick ideas, store paragraphs you want to get out of the way, or just make a note for yourself later on." = "El bloc de notas es un lugar perfecto para anotar ideas breves, almacenar párrafos para más tarde o tomar notas en cualquier momento.";
@@ -455,7 +443,10 @@
 "Theme" = "Tema";
 
 /* No comment provided by engineer. */
-"Too many notes." = "Demasiadas notas";
+"There was an error loading Dropbox. Please try again." = "Se ha producido un error al cargar Dropbox. Inténtalo de nuevo.";
+
+/* No comment provided by engineer. */
+"Try again once you have an internet connection." = "Inténtalo de nuevo cuando tengas conexión a Internet.";
 
 /* No comment provided by engineer. */
 "Tumblr" = "Tumblr";
@@ -470,7 +461,13 @@
 "Twitter" = "Twitter";
 
 /* No comment provided by engineer. */
+"Unable to connect to the server. Please try again." = "No se ha podido conectar con el servidor. Inténtalo de nuevo.";
+
+/* No comment provided by engineer. */
 "Undo File Remove" = "Deshacer eliminar archivo";
+
+/* No comment provided by engineer. */
+"Unknown Error Occurred" = "Se ha producido un error desconocido";
 
 /* No comment provided by engineer. */
 "Untitled" = "Sin título";
@@ -479,13 +476,7 @@
 "Untitled %ld.%@" = "Sin título %ld.%@";
 
 /* No comment provided by engineer. */
-"Username" = "Nombre de usuario";
-
-/* No comment provided by engineer. */
 "View" = "Visualización";
-
-/* No comment provided by engineer. */
-"We were unable to login to your Evernote account. Please check your username and password." = "No se pudo crear acceso a su cuenta de Evernote. Verifique su nombre de usuario y contraseña.";
 
 /* No comment provided by engineer. */
 "We were unable to login to your Tumblr account. Please check your username and password." = "No se pudo crear acceso a su cuenta de Tumblr. Verifique su nombre de usuario y contraseña.";
@@ -497,22 +488,22 @@
 "Welcome" = "Bienvenida";
 
 /* No comment provided by engineer. */
+"Why not create your next masterpiece?" = "¿Por qué no creas tu próxima obra maestra?";
+
+/* No comment provided by engineer. */
 "Wide" = "Anchos";
+
+/* No comment provided by engineer. */
+"WiFi" = "WiFi";
 
 /* No comment provided by engineer. */
 "Word Count" = "Recuento de palabras";
 
 /* No comment provided by engineer. */
-"Words (%d)" = "Palabras (%d)";
-
-/* No comment provided by engineer. */
-"Would you like to register your copy of Elements?  Registering allows us to tell you about important Elements bug fixes, new features and other cool stuff being worked on in the Second Gear garage." = "¿Desea registrar su copia de Elements?  El registro nos permite informarle acerca de la solución de errores importantes de Elements, nuevas características y otras funciones que están en proyecto en el taller de Second Gear.";
-
-/* No comment provided by engineer. */
 "Yes" = "Sí";
 
 /* No comment provided by engineer. */
-"You don't have permission to access that notebook." = "No tiene permiso para acceder a este bloc de notas";
+"yesterday" = "ayer";
 
 /* No comment provided by engineer. */
 "Your device is not allowed to send mail" = "Su dispositivo no está autorizado para enviar correo";
